@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "exam_1",
+    "name": "JEE",
+    "subjects": [
+      {
+        "id": "sub_01",
+        "name": "Physics",
+        "chapters": [
+          { "id": "ch_01", "name": "Mechanics" },
+          { "id": "ch_02", "name": "Thermodynamics" },
+          { "id": "ch_03", "name": "Electromagnetism" }
+        ]
+      },
+      {
+        "id": "sub_02",
+        "name": "Chemistry",
+        "chapters": [
+          { "id": "ch_04", "name": "Organic Chemistry" },
+          { "id": "ch_05", "name": "Inorganic Chemistry" },
+          { "id": "ch_06", "name": "Physical Chemistry" }
+        ]
+      },
+      {
+        "id": "sub_03",
+        "name": "Mathematics",
+        "chapters": [
+          { "id": "ch_07", "name": "Calculus" },
+          { "id": "ch_08", "name": "Algebra" },
+          { "id": "ch_09", "name": "Coordinate Geometry" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "exam_2",
+    "name": "NEET",
+    "subjects": [
+      {
+        "id": "sub_04",
+        "name": "Physics",
+        "chapters": [
+          { "id": "ch_10", "name": "Motion" },
+          { "id": "ch_11", "name": "Optics" },
+          { "id": "ch_12", "name": "Modern Physics" }
+        ]
+      },
+      {
+        "id": "sub_05",
+        "name": "Chemistry",
+        "chapters": [
+          { "id": "ch_13", "name": "Chemical Bonding" },
+          { "id": "ch_14", "name": "Equilibrium" },
+          { "id": "ch_15", "name": "Electrochemistry" }
+        ]
+      },
+      {
+        "id": "sub_06",
+        "name": "Biology",
+        "chapters": [
+          { "id": "ch_16", "name": "Cell Biology" },
+          { "id": "ch_17", "name": "Genetics" },
+          { "id": "ch_18", "name": "Human Physiology" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "exam_3",
+    "name": "UPSC",
+    "subjects": [
+      {
+        "id": "sub_07",
+        "name": "History",
+        "chapters": [
+          { "id": "ch_19", "name": "Ancient India" },
+          { "id": "ch_20", "name": "Medieval India" },
+          { "id": "ch_21", "name": "Modern India" }
+        ]
+      },
+      {
+        "id": "sub_08",
+        "name": "Geography",
+        "chapters": [
+          { "id": "ch_22", "name": "Physical Geography" },
+          { "id": "ch_23", "name": "Human Geography" },
+          { "id": "ch_24", "name": "Indian Geography" }
+        ]
+      },
+      {
+        "id": "sub_09",
+        "name": "Polity",
+        "chapters": [
+          { "id": "ch_25", "name": "Constitution" },
+          { "id": "ch_26", "name": "Parliament" },
+          { "id": "ch_27", "name": "Judiciary" }
+        ]
+      },
+      {
+        "id": "sub_10",
+        "name": "Economics",
+        "chapters": [
+          { "id": "ch_28", "name": "Microeconomics" },
+          { "id": "ch_29", "name": "Macroeconomics" },
+          { "id": "ch_30", "name": "Indian Economy" }
+        ]
+      }
+    ]
+  }
+]

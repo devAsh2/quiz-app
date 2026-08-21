@@ -1,0 +1,7502 @@
+[
+  {
+    "_id": "q_001",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "A body of mass m moves with velocity v. Its kinetic energy is:",
+    "options": [
+      "mv",
+      "mv²",
+      "½mv²",
+      "2mv²"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_002",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "Newton's first law states that a body at rest will remain at rest unless acted upon by:",
+    "options": [
+      "Gravity",
+      "A net external force",
+      "Friction",
+      "An internal force"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_003",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "The SI unit of force is:",
+    "options": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_004",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "A projectile is launched at 45° for maximum range. If initial speed is u, the maximum range is:",
+    "options": [
+      "u²/g",
+      "u²/2g",
+      "2u²/g",
+      "u²/4g"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_005",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "Centripetal acceleration in uniform circular motion is given by:",
+    "options": [
+      "v²r",
+      "v/r",
+      "v²/r",
+      "r/v²"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_006",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "The work-energy theorem states that the net work done on an object equals:",
+    "options": [
+      "Its potential energy",
+      "Its total mechanical energy",
+      "The change in its kinetic energy",
+      "The change in its momentum"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_007",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "In a perfectly elastic collision, which quantities are conserved?",
+    "options": [
+      "Kinetic energy only",
+      "Momentum only",
+      "Both momentum and kinetic energy",
+      "Neither"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_008",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "The escape velocity from Earth's surface is approximately:",
+    "options": [
+      "9.8 km/s",
+      "11.2 km/s",
+      "7.9 km/s",
+      "3.0 km/s"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_009",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "For a spring-mass system in SHM, the time period T depends on:",
+    "options": [
+      "Amplitude only",
+      "Frequency only",
+      "Mass and spring constant",
+      "Initial displacement"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_010",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "The moment of inertia of a solid sphere about its diameter is:",
+    "options": [
+      "2mr²/5",
+      "mr²/2",
+      "mr²",
+      "2mr²/3"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_011",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "Angular momentum is conserved when:",
+    "options": [
+      "Net force is zero",
+      "Net torque is zero",
+      "Kinetic energy is constant",
+      "Linear momentum is zero"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_012",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "A 10 kg box slides on a surface with coefficient of kinetic friction 0.2. The friction force is (g = 10 m/s²):",
+    "options": [
+      "20 N",
+      "2 N",
+      "200 N",
+      "0.2 N"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_013",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "Power is defined as:",
+    "options": [
+      "Force × displacement",
+      "Work × time",
+      "Work / time",
+      "Force / time"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_014",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "Impulse equals:",
+    "options": [
+      "Force × distance",
+      "Change in momentum",
+      "Change in kinetic energy",
+      "Force / time"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_015",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "A body moves in a circle with constant speed. The work done by centripetal force in one revolution is:",
+    "options": [
+      "2πrF",
+      "πr²F",
+      "Zero",
+      "mv²/r"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_016",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "Gravitational potential energy at height h above Earth's surface (R = radius) is:",
+    "options": [
+      "-GMm/R",
+      "-GMm/(R+h)",
+      "mgh only (for any h)",
+      "Zero"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_017",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_01",
+    "text": "In a perfectly inelastic collision:",
+    "options": [
+      "Kinetic energy is conserved",
+      "Objects separate with same speed",
+      "Objects stick together after collision",
+      "Total energy is not conserved"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_018",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "The first law of thermodynamics is a statement of:",
+    "options": [
+      "Conservation of momentum",
+      "Conservation of energy",
+      "Newton's second law",
+      "Boyle's law"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_019",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "The efficiency of a Carnot engine operating between 500 K and 300 K is:",
+    "options": [
+      "40%",
+      "60%",
+      "50%",
+      "80%"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_020",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "In an isothermal process, which quantity remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Entropy"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_021",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "In an adiabatic process, heat exchange with surroundings is:",
+    "options": [
+      "Maximum",
+      "Minimum but non-zero",
+      "Zero",
+      "Infinite"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_022",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "The specific heat of water is approximately:",
+    "options": [
+      "1 J/g·K",
+      "4.2 J/g·K",
+      "2.1 J/g·K",
+      "8.4 J/g·K"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_023",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "According to the second law of thermodynamics:",
+    "options": [
+      "Energy cannot be created or destroyed",
+      "Entropy always decreases in isolated systems",
+      "Heat flows from cold to hot spontaneously",
+      "Entropy of an isolated system tends to increase"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_024",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "An ideal gas at temperature T has RMS speed v. If temperature is increased to 4T, the new RMS speed is:",
+    "options": [
+      "2v",
+      "4v",
+      "v/2",
+      "16v"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_025",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "The Zeroth law of thermodynamics defines the concept of:",
+    "options": [
+      "Work",
+      "Entropy",
+      "Temperature",
+      "Pressure"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_026",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "Latent heat of vaporization is the heat required to:",
+    "options": [
+      "Raise temperature by 1°C",
+      "Convert solid to liquid",
+      "Convert liquid to gas at constant temperature",
+      "Lower temperature by 1°C"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_027",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "Work done in a reversible process at constant pressure is:",
+    "options": [
+      "Zero",
+      "P·ΔV",
+      "ΔU only",
+      "T·ΔS"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_028",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "Rate of heat conduction depends primarily on:",
+    "options": [
+      "Temperature gradient",
+      "Color of the material",
+      "Electric charge",
+      "Magnetic field strength"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_029",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "Stefan-Boltzmann law states that radiated power is proportional to:",
+    "options": [
+      "T",
+      "T²",
+      "T³",
+      "T⁴"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_030",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "Internal energy of an ideal gas depends only on:",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Both pressure and volume"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_031",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "Gibbs free energy change for a spontaneous process at constant T and P is:",
+    "options": [
+      "Positive",
+      "Zero",
+      "Negative",
+      "Infinite"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_032",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "The specific heat at constant pressure (Cp) is always __ than at constant volume (Cv) for an ideal gas:",
+    "options": [
+      "Less",
+      "Greater",
+      "Equal",
+      "Cannot be compared"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_033",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "Work done in an isothermal expansion of n moles of an ideal gas from volume V₁ to V₂ is:",
+    "options": [
+      "Zero",
+      "nRT ln(V₂/V₁)",
+      "-nRT ln(V₂/V₁)",
+      "nCvΔT"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_034",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_02",
+    "text": "Which process is represented by a vertical line on a P-V diagram?",
+    "options": [
+      "Isothermal",
+      "Isobaric",
+      "Isochoric (constant volume)",
+      "Adiabatic"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_035",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Coulomb's law states that the electrostatic force between two charges is:",
+    "options": [
+      "Proportional to distance",
+      "Inversely proportional to the square of distance",
+      "Proportional to the square of distance",
+      "Independent of distance"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_036",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "The electric field due to a point charge q at distance r is:",
+    "options": [
+      "kq/r",
+      "kq/r²",
+      "kq²/r",
+      "kq²/r²"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_037",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Gauss's law relates electric flux through a closed surface to:",
+    "options": [
+      "Total charge outside",
+      "Total enclosed charge divided by ε₀",
+      "Surface area only",
+      "Electric potential"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_038",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "The capacitance of a parallel plate capacitor increases when:",
+    "options": [
+      "Plate separation increases",
+      "Plate area decreases",
+      "A dielectric material is inserted",
+      "Charge is removed"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_039",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Ohm's law states V = IR. Here R represents:",
+    "options": [
+      "Reactance",
+      "Resistance",
+      "Reluctance",
+      "Resonance frequency"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_040",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Kirchhoff's current law (KCL) states that at any junction:",
+    "options": [
+      "Sum of voltages is zero",
+      "Sum of currents entering equals sum of currents leaving",
+      "Resistance is constant",
+      "Power is conserved"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_041",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "The magnetic force on a charge q moving with velocity v in magnetic field B is:",
+    "options": [
+      "qvB (scalar)",
+      "q(v × B)",
+      "q(v · B)",
+      "qv/B"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_042",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Faraday's law of electromagnetic induction states that induced EMF equals:",
+    "options": [
+      "Magnetic field strength",
+      "Rate of change of magnetic flux (negative)",
+      "Current × resistance",
+      "Charge / time"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_043",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Lenz's law is a consequence of:",
+    "options": [
+      "Conservation of charge",
+      "Conservation of energy",
+      "Newton's third law of motion",
+      "Coulomb's law"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_044",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Speed of electromagnetic waves in vacuum is:",
+    "options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10¹⁰ m/s",
+      "3 × 10⁴ m/s"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_045",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Ampere's law relates the line integral of magnetic field around a closed loop to:",
+    "options": [
+      "Electric flux",
+      "Total enclosed current",
+      "Electric field strength",
+      "Magnetic flux"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_046",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Self-inductance L is defined by EMF = -L(dI/dt). Its SI unit is:",
+    "options": [
+      "Farad",
+      "Weber",
+      "Henry",
+      "Tesla"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_047",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "In an ideal LC circuit, energy oscillates between:",
+    "options": [
+      "Kinetic and potential energy",
+      "Electric field (capacitor) and magnetic field (inductor)",
+      "Heat and light",
+      "Resistance and capacitance"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_048",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Maxwell introduced displacement current to account for:",
+    "options": [
+      "Current in solid conductors",
+      "Changing electric field producing magnetic field",
+      "Magnetic monopoles",
+      "Gravitational effects on light"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_049",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "The magnetic field at the center of a circular loop of radius R carrying current I is:",
+    "options": [
+      "μ₀I/2R",
+      "μ₀I/R",
+      "μ₀I/4πR",
+      "μ₀IR"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_050",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "The electric potential energy between two like charges is:",
+    "options": [
+      "Negative",
+      "Positive",
+      "Zero",
+      "Depends on distance only (sign not determined)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_051",
+    "exam_id": "exam_1",
+    "subject_id": "sub_01",
+    "chapter_id": "ch_03",
+    "text": "Which of these is a vector quantity?",
+    "options": [
+      "Electric potential",
+      "Electric flux",
+      "Electric field intensity",
+      "Electric energy"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_052",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "The functional group –OH present in alcohols is called:",
+    "options": [
+      "Carbonyl",
+      "Carboxyl",
+      "Hydroxyl",
+      "Amino"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_053",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "The IUPAC name of CH₃–CH₂–OH is:",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Propanol",
+      "Butanol"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_054",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "Markovnikov's rule applies to:",
+    "options": [
+      "Nucleophilic substitution reactions",
+      "Electrophilic addition to unsymmetrical alkenes",
+      "Elimination reactions",
+      "Condensation reactions"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_055",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "Which of the following is an aldehyde?",
+    "options": [
+      "CH₃COCH₃",
+      "HCHO",
+      "CH₃COOH",
+      "CH₃OCH₃"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_056",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "Benzene preferentially undergoes:",
+    "options": [
+      "Nucleophilic addition",
+      "Electrophilic substitution",
+      "Elimination",
+      "Free-radical addition"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_057",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "The hybridization of carbon atoms in ethylene (CH₂=CH₂) is:",
+    "options": [
+      "sp³",
+      "sp²",
+      "sp",
+      "sp³d"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_058",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "An ester is formed by the reaction of a carboxylic acid with:",
+    "options": [
+      "An aldehyde",
+      "A ketone",
+      "An alcohol",
+      "An amine"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_059",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "Which reagent is used to distinguish an aldehyde from a ketone?",
+    "options": [
+      "Tollens' reagent (silver mirror test)",
+      "Lucas reagent",
+      "Baeyer's reagent",
+      "Grignard reagent"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_060",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "Dehydrohalogenation of an alkyl halide using KOH/alcohol produces:",
+    "options": [
+      "An alkane",
+      "An alkene",
+      "An alcohol",
+      "An ether"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_061",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "The number of sigma (σ) bonds in ethane (C₂H₆) is:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_062",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "Saponification is the base-catalyzed hydrolysis of:",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Esters",
+      "Amines"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_063",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "The Cannizzaro reaction is given by aldehydes having:",
+    "options": [
+      "Alpha hydrogen",
+      "No alpha hydrogen",
+      "Beta hydrogen only",
+      "Gamma hydrogen"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_064",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "Phenol is more acidic than aliphatic alcohol because:",
+    "options": [
+      "Phenyl group is larger in size",
+      "Phenoxide ion is stabilized by resonance",
+      "O–H bond in phenol is shorter",
+      "Phenol has higher molecular weight"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_065",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "A Grignard reagent has the general formula:",
+    "options": [
+      "RMgX",
+      "RLi",
+      "R₂Zn",
+      "RCu"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_066",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "Which of the following is a secondary alcohol?",
+    "options": [
+      "CH₃OH",
+      "CH₃CH₂OH",
+      "(CH₃)₂CHOH",
+      "(CH₃)₃COH"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_067",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "Diazotization converts a primary aromatic amine into:",
+    "options": [
+      "A diazonium salt",
+      "A nitro compound",
+      "An aldehyde",
+      "A carboxylic acid"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_068",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_04",
+    "text": "The functional groups present in all amino acids are:",
+    "options": [
+      "Only –COOH",
+      "Only –NH₂",
+      "Both –COOH and –NH₂",
+      "–OH and –COOH"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_069",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "The atomic number of iron (Fe) is:",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_070",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "Elements in the same group of the periodic table have the same:",
+    "options": [
+      "Atomic mass",
+      "Number of neutrons",
+      "Number of valence electrons",
+      "Atomic radius"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_071",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "Which noble gas has atomic number 18?",
+    "options": [
+      "Neon",
+      "Helium",
+      "Argon",
+      "Krypton"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_072",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "The oxidation state of Mn in KMnO₄ is:",
+    "options": [
+      "+4",
+      "+6",
+      "+7",
+      "+5"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_073",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "Which of the following hydrohalic acids is the strongest?",
+    "options": [
+      "HF",
+      "HCl",
+      "HBr",
+      "HI"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_074",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "The hybridization of boron in BF₃ is:",
+    "options": [
+      "sp³",
+      "sp²",
+      "sp",
+      "sp³d"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_075",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "The VSEPR geometry of water (H₂O) is:",
+    "options": [
+      "Linear",
+      "Trigonal planar",
+      "Tetrahedral",
+      "Bent (V-shaped)"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_076",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "Which element has the highest electronegativity on the Pauling scale?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Chlorine",
+      "Fluorine"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_077",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "The coordination number of Fe in [Fe(CN)₆]³⁻ is:",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_078",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "O₂",
+      "CO₂",
+      "H₂",
+      "Cl₂"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_079",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "The lanthanide contraction results in:",
+    "options": [
+      "Large increase in atomic radius of 5d elements",
+      "Similar atomic sizes of 4d and 5d transition metals",
+      "Decrease in ionization energy along lanthanides",
+      "Increased reactivity of 5d metals"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_080",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "Aqua regia is a mixture of concentrated HNO₃ and concentrated HCl in the ratio:",
+    "options": [
+      "1:3 (HNO₃:HCl)",
+      "3:1 (HNO₃:HCl)",
+      "1:1",
+      "2:1 (HCl:HNO₃)"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_081",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "The geometry of SF₆ molecule is:",
+    "options": [
+      "Tetrahedral",
+      "Octahedral",
+      "Trigonal bipyramidal",
+      "Square planar"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_082",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "Amphoteric oxides react with:",
+    "options": [
+      "Acids only",
+      "Bases only",
+      "Both acids and bases",
+      "Neither acids nor bases"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_083",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "Which property generally decreases along a period from left to right?",
+    "options": [
+      "Electronegativity",
+      "Atomic radius",
+      "Ionization energy",
+      "Electron affinity"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_084",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "Which of the following is NOT a characteristic of transition metals?",
+    "options": [
+      "Variable oxidation states",
+      "Formation of colored compounds",
+      "Catalytic activity",
+      "No d-electrons in ground state"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_085",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_05",
+    "text": "The number of elements in the third period of the periodic table is:",
+    "options": [
+      "2",
+      "8",
+      "18",
+      "32"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_086",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "One mole of any substance contains:",
+    "options": [
+      "6.022 × 10²² particles",
+      "6.022 × 10²³ particles",
+      "6.022 × 10²⁴ particles",
+      "6.022 × 10²⁰ particles"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_087",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Molarity is defined as:",
+    "options": [
+      "Moles of solute per liter of solution",
+      "Moles of solute per kg of solvent",
+      "Mass of solute per liter of solution",
+      "Moles of solute per mole of solvent"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_088",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Activation energy is:",
+    "options": [
+      "Energy released during reaction",
+      "Minimum energy required to initiate a reaction",
+      "Total energy of products",
+      "Energy difference between reactants and products"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_089",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Henry's law states that the solubility of a gas in a liquid is:",
+    "options": [
+      "Inversely proportional to partial pressure",
+      "Directly proportional to its partial pressure",
+      "Independent of pressure",
+      "Proportional to temperature"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_090",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Raoult's law is applicable to:",
+    "options": [
+      "Ideal solutions",
+      "Real gases only",
+      "Electrolyte solutions",
+      "Supersaturated solutions"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_091",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "The pH of a neutral aqueous solution at 25°C is:",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "1"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_092",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "The Henderson-Hasselbalch equation is used to calculate:",
+    "options": [
+      "Osmotic pressure",
+      "pH of buffer solutions",
+      "Solubility product",
+      "Partition coefficient"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_093",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Colligative properties of a solution depend on:",
+    "options": [
+      "Nature of solute particles",
+      "Number of solute particles",
+      "Chemical properties of solvent",
+      "Pressure of the system"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_094",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "The rate constant k for a first-order reaction has units:",
+    "options": [
+      "mol/L/s",
+      "L/mol/s",
+      "s⁻¹",
+      "L²/mol²/s"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_095",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "In the Arrhenius equation k = Ae^(–Ea/RT), A represents:",
+    "options": [
+      "Activation energy",
+      "Pre-exponential (frequency) factor",
+      "Equilibrium constant",
+      "Rate of reaction"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_096",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Osmotic pressure π for a dilute solution is given by π = MRT. Here M is:",
+    "options": [
+      "Mass of solute",
+      "Molality",
+      "Molarity of solution",
+      "Mole fraction"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_097",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Van't Hoff factor i for NaCl in dilute aqueous solution is approximately:",
+    "options": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_098",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Depression in freezing point ΔTf = Kf × m. Kf is the:",
+    "options": [
+      "Molarity of solution",
+      "Cryoscopic constant of the solvent",
+      "Latent heat of fusion",
+      "Rate constant"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_099",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Which of the following is an example of a lyophilic colloid?",
+    "options": [
+      "Gold sol",
+      "Starch in water",
+      "Sulfur sol in water",
+      "Silver sol"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_100",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "The half-life of a first-order reaction is:",
+    "options": [
+      "0.693/k",
+      "1/k",
+      "2/k",
+      "0.5/k"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_101",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "For a reaction 2A → products, the rate law is rate = k[A]². If [A] doubles, the rate:",
+    "options": [
+      "Doubles",
+      "Stays the same",
+      "Quadruples",
+      "Increases 8 times"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_102",
+    "exam_id": "exam_1",
+    "subject_id": "sub_02",
+    "chapter_id": "ch_06",
+    "text": "Faraday's first law of electrolysis states that mass of substance deposited is proportional to:",
+    "options": [
+      "Voltage applied",
+      "Quantity of charge passed",
+      "Temperature",
+      "Concentration of electrolyte"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_103",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "The derivative of sin(x) with respect to x is:",
+    "options": [
+      "–cos(x)",
+      "cos(x)",
+      "–sin(x)",
+      "tan(x)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_104",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "∫x² dx equals:",
+    "options": [
+      "2x + C",
+      "x³/3 + C",
+      "x²/2 + C",
+      "2x³ + C"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_105",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "lim(x→0) sin(x)/x equals:",
+    "options": [
+      "0",
+      "∞",
+      "1",
+      "Undefined"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_106",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "The derivative of eˣ is:",
+    "options": [
+      "xeˣ⁻¹",
+      "eˣ",
+      "ln(x)",
+      "1/x"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_107",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "If f(x) = x³ – 3x, then f'(x) = 0 when x equals:",
+    "options": [
+      "±1",
+      "±√3",
+      "0 only",
+      "±2"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_108",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "The integration by parts formula is:",
+    "options": [
+      "∫u dv = uv + ∫v du",
+      "∫u dv = uv – ∫v du",
+      "∫uv dx = u∫v dx + v∫u dx",
+      "∫u dv = –uv + ∫v du"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_109",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "The derivative of ln(x) with respect to x is:",
+    "options": [
+      "1/x²",
+      "1/x",
+      "x",
+      "eˣ"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_110",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "A function f(x) has a local maximum at x = a if:",
+    "options": [
+      "f'(a) > 0",
+      "f'(a) = 0 and f''(a) < 0",
+      "f'(a) = 0 and f''(a) > 0",
+      "f''(a) = 0"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_111",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "The Fundamental Theorem of Calculus states d/dx[∫ₐˣ f(t) dt] =:",
+    "options": [
+      "f(a)",
+      "f(x) – f(a)",
+      "f(x)",
+      "F(x)"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_112",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "lim(x→∞) (1 + 1/x)ˣ equals:",
+    "options": [
+      "1",
+      "∞",
+      "e",
+      "0"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_113",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "The derivative of tan(x) is:",
+    "options": [
+      "sec(x)",
+      "cot(x)",
+      "sec²(x)",
+      "–csc²(x)"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_114",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "∫₀¹ x dx equals:",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "2"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_115",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "Rolle's theorem guarantees that if f is continuous on [a,b], differentiable on (a,b), and f(a) = f(b), then:",
+    "options": [
+      "f is constant on [a,b]",
+      "There exists c ∈ (a,b) where f'(c) = 0",
+      "f has a maximum at the midpoint",
+      "f(x) = 0 for all x in (a,b)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_116",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "The chain rule states d/dx[f(g(x))] =:",
+    "options": [
+      "f'(x) · g'(x)",
+      "f'(g(x)) · g'(x)",
+      "f(g'(x))",
+      "f'(g'(x))"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_117",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "∫ (1/x) dx equals:",
+    "options": [
+      "x² + C",
+      "ln|x| + C",
+      "–1/x² + C",
+      "eˣ + C"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_118",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "The second derivative f''(x) provides information about:",
+    "options": [
+      "Slope of the function",
+      "Concavity and inflection points",
+      "Maximum value of f",
+      "Roots of the function"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_119",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_07",
+    "text": "The Maclaurin series expansion of eˣ is:",
+    "options": [
+      "1 + x + x²/2! + x³/3! + …",
+      "x – x³/3! + x⁵/5! – …",
+      "1 – x²/2! + x⁴/4! – …",
+      "x + x²/2 + x³/3 + …"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_120",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The roots of x² – 5x + 6 = 0 are:",
+    "options": [
+      "2 and 4",
+      "2 and 3",
+      "1 and 6",
+      "–2 and –3"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_121",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "If z = 3 + 4i, then |z| =:",
+    "options": [
+      "5",
+      "7",
+      "1",
+      "25"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_122",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The sum of the first n natural numbers is:",
+    "options": [
+      "n(n+1)",
+      "n(n+1)/2",
+      "n²",
+      "n(n–1)/2"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_123",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "In a geometric progression with first term a and common ratio r, the nth term is:",
+    "options": [
+      "a + (n–1)r",
+      "arⁿ⁻¹",
+      "a·rⁿ",
+      "a/(rⁿ⁻¹)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_124",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The binomial expansion of (1+x)ⁿ contains how many terms?",
+    "options": [
+      "n",
+      "n+1",
+      "n–1",
+      "2n"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_125",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The discriminant of ax² + bx + c = 0 is:",
+    "options": [
+      "b² – 4ac",
+      "b + 4ac",
+      "√(b² – 4ac)",
+      "2a"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_126",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "log₂(8) equals:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_127",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "If A and B are sets, then A ∩ B represents:",
+    "options": [
+      "Elements in A or B",
+      "Elements in both A and B",
+      "Elements not in A",
+      "All elements in the universe"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_128",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The number of permutations of n objects taken r at a time is:",
+    "options": [
+      "n!/r!",
+      "n!/(n–r)!",
+      "n!/(r!(n–r)!)",
+      "n·r"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_129",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The determinant of a 2×2 matrix [[a,b],[c,d]] is:",
+    "options": [
+      "ac – bd",
+      "ad – bc",
+      "ab – cd",
+      "ad + bc"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_130",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The solution set of |x – 3| < 2 is:",
+    "options": [
+      "x < 5",
+      "1 < x < 5",
+      "–5 < x < –1",
+      "x > 1"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_131",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "If f(x) = 2x + 1, then the inverse f⁻¹(x) =:",
+    "options": [
+      "(x+1)/2",
+      "(x–1)/2",
+      "2x – 1",
+      "1/(2x+1)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_132",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The number of combinations of 5 items taken 3 at a time (⁵C₃) is:",
+    "options": [
+      "60",
+      "10",
+      "15",
+      "20"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_133",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The complex number i⁴ equals:",
+    "options": [
+      "i",
+      "–1",
+      "1",
+      "–i"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_134",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The arithmetic mean of 2, 4, 6, 8, 10 is:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_135",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "By Vieta's formulas, for ax² + bx + c = 0, the sum of the roots equals:",
+    "options": [
+      "b/a",
+      "–b/a",
+      "c/a",
+      "–c/a"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_136",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_08",
+    "text": "The number of ways to arrange the letters of the word 'LEVEL' is:",
+    "options": [
+      "120",
+      "30",
+      "60",
+      "20"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_137",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The distance between points (1, 2) and (4, 6) is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_138",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The slope of a line parallel to the x-axis is:",
+    "options": [
+      "1",
+      "Undefined",
+      "0",
+      "–1"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_139",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The equation of a circle with center (0,0) and radius r is:",
+    "options": [
+      "x² + y = r",
+      "x + y² = r",
+      "x² + y² = r²",
+      "x² + y² = r"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_140",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The midpoint of the segment joining (2, 4) and (6, 8) is:",
+    "options": [
+      "(3, 5)",
+      "(4, 6)",
+      "(8, 12)",
+      "(2, 4)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_141",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The equation of a parabola with vertex at origin opening rightward is:",
+    "options": [
+      "y² = 4ax",
+      "x² = 4ay",
+      "y = ax²",
+      "x = ay²"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_142",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The standard form of an ellipse with semi-major axis a and semi-minor axis b is:",
+    "options": [
+      "x/a + y/b = 1",
+      "x²/a + y²/b = 1",
+      "x²/a² + y²/b² = 1",
+      "x²a² + y²b² = 1"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_143",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "Two lines with slopes m₁ and m₂ are perpendicular if:",
+    "options": [
+      "m₁ = m₂",
+      "m₁ + m₂ = 0",
+      "m₁ · m₂ = –1",
+      "m₁ · m₂ = 1"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_144",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The eccentricity of a circle is:",
+    "options": [
+      "0",
+      "1",
+      "Less than 1 but greater than 0",
+      "Greater than 1"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_145",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The focus of the parabola y² = 4ax is at:",
+    "options": [
+      "(0, a)",
+      "(a, 0)",
+      "(–a, 0)",
+      "(0, –a)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_146",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "For the hyperbola x²/a² – y²/b² = 1, the eccentricity e satisfies:",
+    "options": [
+      "e < 1",
+      "e = 1",
+      "e > 1",
+      "e = 0"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_147",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "Area of triangle with vertices (x₁,y₁), (x₂,y₂), (x₃,y₃) is:",
+    "options": [
+      "½|x₁(y₂–y₃) + x₂(y₃–y₁) + x₃(y₁–y₂)|",
+      "½(base × height) only",
+      "√(s(s–a)(s–b)(s–c))",
+      "x₁y₂ – x₂y₁"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_148",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The angle θ between lines with slopes m₁ and m₂ satisfies tan θ =:",
+    "options": [
+      "(m₁+m₂)/(1–m₁m₂)",
+      "|(m₁–m₂)/(1+m₁m₂)|",
+      "m₁·m₂",
+      "(m₁–m₂)/2"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_149",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The directrix of the parabola y² = 4ax is:",
+    "options": [
+      "x = a",
+      "x = –a",
+      "y = a",
+      "y = –a"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_150",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The locus of a point that moves such that the sum of its distances from two fixed points is constant is:",
+    "options": [
+      "A parabola",
+      "An ellipse",
+      "A hyperbola",
+      "A circle"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_151",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The section formula for dividing the segment joining (x₁,y₁) and (x₂,y₂) internally in ratio m:n gives x =:",
+    "options": [
+      "(mx₁+nx₂)/(m+n)",
+      "(mx₂+nx₁)/(m+n)",
+      "(mx₁–nx₂)/(m–n)",
+      "(x₁+x₂)/2"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_152",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The combined equation of a pair of lines through the origin ax² + 2hxy + by² = 0 are perpendicular if:",
+    "options": [
+      "a = b",
+      "h = 0",
+      "a + b = 0",
+      "ab = h²"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_153",
+    "exam_id": "exam_1",
+    "subject_id": "sub_03",
+    "chapter_id": "ch_09",
+    "text": "The equation of the tangent to the circle x² + y² = r² at point (x₁, y₁) is:",
+    "options": [
+      "x·x₁ + y·y₁ = r²",
+      "x·x₁ – y·y₁ = r²",
+      "x/x₁ + y/y₁ = 1",
+      "x₁·x₂ + y₁·y₂ = r"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_154",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "A body starting from rest with uniform acceleration a covers a distance in the nth second given by:",
+    "options": [
+      "a(2n–1)/2",
+      "a(2n+1)/2",
+      "an",
+      "a/2"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_155",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "For uniform circular motion, the velocity vector is always:",
+    "options": [
+      "Parallel to the radius",
+      "Perpendicular to the radius",
+      "At 45° to the radius",
+      "Along the radius inward"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_156",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "The equation of motion v² = u² + 2as is valid when acceleration is:",
+    "options": [
+      "Variable",
+      "Uniform",
+      "Zero",
+      "Only negative"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_157",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "The relative velocity of two objects moving in the same direction with speeds v₁ and v₂ (v₁ > v₂) is:",
+    "options": [
+      "v₁ + v₂",
+      "v₁ – v₂",
+      "v₁ × v₂",
+      "(v₁ + v₂)/2"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_158",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "A ball is thrown horizontally. In the absence of air resistance, its horizontal velocity:",
+    "options": [
+      "Increases due to gravity",
+      "Decreases due to gravity",
+      "Remains constant throughout",
+      "Becomes zero at the highest point"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_159",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "The slope of a velocity-time graph represents:",
+    "options": [
+      "Speed",
+      "Distance traveled",
+      "Acceleration",
+      "Displacement"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_160",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "A stone is dropped from height h. The time taken to reach the ground is:",
+    "options": [
+      "√(h/g)",
+      "√(2h/g)",
+      "h/g",
+      "2h/g"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_161",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "At the highest point of projectile motion, the vertical component of velocity is:",
+    "options": [
+      "Maximum",
+      "Equal to initial vertical velocity",
+      "Zero",
+      "Equal to horizontal velocity"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_162",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "Newton's second law in rotational motion is analogous to F = ma and is expressed as:",
+    "options": [
+      "F = ma",
+      "τ = Iα",
+      "p = mv",
+      "L = Iω"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_163",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "The time of flight of a projectile launched at angle θ with initial speed u is:",
+    "options": [
+      "u sinθ / g",
+      "2u sinθ / g",
+      "u cosθ / g",
+      "u² sin2θ / g"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_164",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "In free fall (ignoring air resistance), all objects near Earth's surface have the same:",
+    "options": [
+      "Velocity",
+      "Momentum",
+      "Acceleration (g ≈ 9.8 m/s²)",
+      "Kinetic energy"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_165",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "A car accelerates from 0 to 60 m/s in 10 s. Its average acceleration is:",
+    "options": [
+      "0.6 m/s²",
+      "6 m/s²",
+      "60 m/s²",
+      "600 m/s²"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_166",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "The area under a velocity-time graph between two instants represents:",
+    "options": [
+      "Acceleration",
+      "Displacement",
+      "Force",
+      "Power"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_167",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "For maximum range of a projectile (neglecting air resistance), the angle of projection is:",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_168",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "The position-time graph for a body in uniform motion is a:",
+    "options": [
+      "Parabola",
+      "Hyperbola",
+      "Straight line (non-vertical)",
+      "Vertical straight line"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_169",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "Centrifugal force is:",
+    "options": [
+      "A real inward force in all frames",
+      "A real outward force in all frames",
+      "A pseudo force experienced in a rotating reference frame",
+      "The gravitational force component"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_170",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_10",
+    "text": "A body moving in a straight line with constant velocity has acceleration:",
+    "options": [
+      "Constant and positive",
+      "Variable",
+      "Zero",
+      "Equal to g"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_171",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "The speed of light in vacuum is approximately:",
+    "options": [
+      "2 × 10⁸ m/s",
+      "3 × 10⁸ m/s",
+      "4 × 10⁸ m/s",
+      "1.5 × 10⁸ m/s"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_172",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "Snell's law of refraction relates the angle of incidence to:",
+    "options": [
+      "The angle of reflection",
+      "The angle of refraction",
+      "The wavelength of light",
+      "The color of light"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_173",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "A concave mirror forms a virtual, erect, and magnified image when the object is placed:",
+    "options": [
+      "Beyond center of curvature C",
+      "At C",
+      "Between focus F and center C",
+      "Between focus F and the mirror (pole)"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_174",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "The refractive index of a medium with respect to vacuum is:",
+    "options": [
+      "Speed of light in medium / c",
+      "c / speed of light in medium",
+      "Wavelength in medium",
+      "Frequency × wavelength in medium"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_175",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "Total internal reflection occurs when the angle of incidence exceeds:",
+    "options": [
+      "90°",
+      "The critical angle",
+      "45°",
+      "Brewster's angle"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_176",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "A convex lens is also called a:",
+    "options": [
+      "Diverging lens",
+      "Concave lens",
+      "Converging lens",
+      "Plano-concave lens"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_177",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "In Young's double-slit experiment, the fringe width is:",
+    "options": [
+      "Directly proportional to slit separation d",
+      "Inversely proportional to slit separation d",
+      "Equal to the wavelength",
+      "Independent of wavelength"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_178",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "Diffraction of light is most prominent when:",
+    "options": [
+      "Wavelength >> slit width",
+      "Wavelength << slit width",
+      "Wavelength ≈ slit width",
+      "Slit width is very large"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_179",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "The mirror formula relating object distance u, image distance v, and focal length f is:",
+    "options": [
+      "1/v + 1/u = f",
+      "1/v + 1/u = 1/f",
+      "v + u = f",
+      "v × u = f²"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_180",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "In mirror/lens convention, a negative magnification (m < 0) indicates the image is:",
+    "options": [
+      "Virtual",
+      "Erect",
+      "Inverted",
+      "Enlarged"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_181",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "Which color of visible light has the highest frequency?",
+    "options": [
+      "Red",
+      "Green",
+      "Violet",
+      "Yellow"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_182",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "A glass prism disperses white light into its constituent colors because:",
+    "options": [
+      "Different colors travel at different speeds in glass (different refractive indices)",
+      "Glass absorbs some colors more than others",
+      "White light is reflected differently at each surface",
+      "Different colors have different amplitudes"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_183",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "The blue color of the sky is due to:",
+    "options": [
+      "Reflection of sunlight by atmosphere",
+      "Refraction of sunlight",
+      "Rayleigh scattering (blue light scattered more)",
+      "Total internal reflection"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_184",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "Optical fiber works on the principle of:",
+    "options": [
+      "Diffraction",
+      "Total internal reflection",
+      "Polarization",
+      "Interference"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_185",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "Power of a lens in diopters = 1/f, where f is measured in:",
+    "options": [
+      "Centimeters",
+      "Millimeters",
+      "Meters",
+      "Kilometers"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_186",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "The critical angle C for a glass-air interface with glass of refractive index 1.5 is approximately:",
+    "options": [
+      "30°",
+      "42°",
+      "60°",
+      "90°"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_187",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_11",
+    "text": "Huygens' principle is used to explain:",
+    "options": [
+      "Quantum nature of light",
+      "Propagation of wave fronts and phenomena like diffraction",
+      "Particle nature of light",
+      "Photoelectric effect"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_188",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "The photoelectric effect was successfully explained by:",
+    "options": [
+      "Maxwell",
+      "Hertz",
+      "Einstein",
+      "Bohr"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_189",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "Work function of a metal is the minimum energy needed to:",
+    "options": [
+      "Accelerate an electron inside the metal",
+      "Eject an electron from the metal surface",
+      "Ionize the metal atom",
+      "Create a photon"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_190",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "According to Bohr's model of the atom, electrons move in:",
+    "options": [
+      "Random paths",
+      "Elliptical orbits",
+      "Fixed circular orbits with discrete energy",
+      "Parabolic paths"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_191",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "The wavelength of a photon with energy E is (h = Planck's constant, c = speed of light):",
+    "options": [
+      "E/(hc)",
+      "hc/E",
+      "h/(Ec)",
+      "Ec/h"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_192",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "Nuclear fission involves:",
+    "options": [
+      "Splitting of a light nucleus",
+      "Fusion of two nuclei",
+      "Splitting of a heavy nucleus into smaller fragments",
+      "Radioactive emission only"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_193",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "Radioactive decay of a substance follows:",
+    "options": [
+      "Linear decay law",
+      "Exponential decay law",
+      "Logarithmic decay law",
+      "Quadratic decay law"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_194",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "The mass number A of an atom equals:",
+    "options": [
+      "Number of protons only",
+      "Number of neutrons only",
+      "Number of protons + neutrons",
+      "Number of protons + electrons"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_195",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "de Broglie wavelength λ = h/p, where p is:",
+    "options": [
+      "Power",
+      "Pressure",
+      "Momentum of the particle",
+      "Potential energy"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_196",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "In alpha (α) decay, the mass number of the parent nucleus decreases by:",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_197",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "Heisenberg's uncertainty principle states that:",
+    "options": [
+      "Energy is quantized in all systems",
+      "Position and momentum cannot both be precisely known simultaneously",
+      "All matter has wave-particle duality",
+      "Speed of light is constant for all observers"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_198",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "Nuclear binding energy is related to:",
+    "options": [
+      "Strength of chemical bonds",
+      "Mass defect (difference between actual mass and sum of constituent masses)",
+      "Electron configuration of the atom",
+      "Atomic radius"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_199",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "X-rays are:",
+    "options": [
+      "High-speed electrons",
+      "High-speed protons",
+      "High-energy electromagnetic radiation",
+      "Longitudinal sound waves"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_200",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "The half-life of a radioactive substance is the time required for:",
+    "options": [
+      "All atoms to decay",
+      "Half the radioactive atoms to decay",
+      "One atom to decay",
+      "Activity to reach zero"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_201",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "The Compton effect demonstrates:",
+    "options": [
+      "Wave nature of light",
+      "Particle nature of X-rays (photons have momentum)",
+      "Polarization of light",
+      "Interference of light"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_202",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "In beta-minus (β⁻) decay, a neutron is transformed into:",
+    "options": [
+      "A proton + electron + antineutrino",
+      "Two protons",
+      "A proton + photon",
+      "A neutron + positron"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_203",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "Einstein's mass-energy equivalence equation is:",
+    "options": [
+      "E = mc",
+      "E = mc²",
+      "E = m/c²",
+      "E = m²c"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_204",
+    "exam_id": "exam_2",
+    "subject_id": "sub_04",
+    "chapter_id": "ch_12",
+    "text": "The radius of the first Bohr orbit (Bohr radius) is approximately:",
+    "options": [
+      "0.053 nm",
+      "0.53 nm",
+      "5.3 nm",
+      "0.0053 nm"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_205",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "Ionic bonds typically form between atoms with:",
+    "options": [
+      "Very low electronegativities",
+      "Very high electronegativities (both)",
+      "Large difference in electronegativity",
+      "Equal electronegativity"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_206",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "The bond angle in a methane (CH₄) molecule is:",
+    "options": [
+      "90°",
+      "109.5°",
+      "120°",
+      "180°"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_207",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "Among single, double, and triple covalent bonds, which has the highest bond energy?",
+    "options": [
+      "Single bond",
+      "Double bond",
+      "Triple bond",
+      "All have equal bond energy"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_208",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "VSEPR theory is used to predict:",
+    "options": [
+      "Reactivity of molecules",
+      "Molecular geometry (shape)",
+      "Bond energy",
+      "Atomic radius"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_209",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "The geometry of CO₂ is:",
+    "options": [
+      "Bent",
+      "Trigonal planar",
+      "Linear",
+      "Tetrahedral"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_210",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "Hydrogen bonding occurs between a hydrogen atom bonded to a highly electronegative atom and another electronegative atom. Which three elements typically form hydrogen bonds?",
+    "options": [
+      "C, H, O only",
+      "N, O, F",
+      "S, Cl, Br",
+      "All non-metals"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_211",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "A coordinate (dative) bond forms when:",
+    "options": [
+      "Both atoms each contribute one electron",
+      "One atom donates both electrons of the shared pair",
+      "Electrons are completely transferred",
+      "Atoms have equal electronegativity"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_212",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "The hybridization of nitrogen in ammonia (NH₃) is:",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "sp³d"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_213",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "Which molecule has polar bonds but zero net dipole moment?",
+    "options": [
+      "HCl",
+      "NH₃",
+      "CO₂",
+      "H₂O"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_214",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "Resonance structures have the same:",
+    "options": [
+      "Electron distribution",
+      "Atomic arrangement but different electron distribution",
+      "Different atomic formula",
+      "Physical properties for each structure"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_215",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "The number of sigma (σ) bonds in ethylene (C₂H₄) is:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_216",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "London dispersion forces arise from:",
+    "options": [
+      "Permanent dipoles",
+      "Ionic charges",
+      "Temporary/instantaneous induced dipoles",
+      "Hydrogen bonding"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_217",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "The geometry of PCl₅ is:",
+    "options": [
+      "Tetrahedral",
+      "Octahedral",
+      "Trigonal bipyramidal",
+      "Square pyramidal"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_218",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "Bond order and bond length are related by:",
+    "options": [
+      "Direct proportion (higher order → longer bond)",
+      "Inverse proportion (higher order → shorter bond)",
+      "No relationship",
+      "Exponential relationship"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_219",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "Which is the weakest type of intermolecular force?",
+    "options": [
+      "Ionic bonds",
+      "Hydrogen bonds",
+      "Covalent bonds",
+      "Van der Waals / London dispersion forces"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_220",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "The number of lone pairs on the oxygen atom in water (H₂O) is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_221",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_13",
+    "text": "Metallic bonding involves:",
+    "options": [
+      "Localized electron pairs between specific atoms",
+      "A sea of delocalized electrons surrounding positive metal ions",
+      "Transfer of electrons from metal to non-metal",
+      "Sharing of specific electron pairs between adjacent atoms"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_222",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "At equilibrium in a reversible reaction, the rate of the forward reaction:",
+    "options": [
+      "Equals the rate of the reverse reaction",
+      "Is greater than the reverse reaction",
+      "Is less than the reverse reaction",
+      "Is zero"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_223",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "Le Chatelier's principle states that when a system at equilibrium is disturbed, it will:",
+    "options": [
+      "Remain unchanged",
+      "Shift to reach a completely new equilibrium",
+      "Shift in a direction that opposes the disturbance",
+      "Always shift in the forward direction"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_224",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "For the reaction aA + bB ⇌ cC + dD, the equilibrium constant Kc is:",
+    "options": [
+      "[C][D]/[A][B]",
+      "[C]ᶜ[D]ᵈ / ([A]ᵃ[B]ᵇ)",
+      "[A]ᵃ[B]ᵇ / ([C]ᶜ[D]ᵈ)",
+      "[C + D] / [A + B]"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_225",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "A large value of Kc (>> 1) means that at equilibrium:",
+    "options": [
+      "Reactants are favored",
+      "Products are predominantly present (products favored)",
+      "Reaction is exactly at midpoint",
+      "Reaction rate is very fast"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_226",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "pH is defined as:",
+    "options": [
+      "[OH⁻]",
+      "log[H⁺]",
+      "–log[H⁺]",
+      "1/[H⁺]"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_227",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "A buffer solution resists change in:",
+    "options": [
+      "Temperature",
+      "Volume",
+      "pH",
+      "Pressure"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_228",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "The relationship between Kp and Kc is (Δn = change in moles of gas):",
+    "options": [
+      "Kp = Kc + RTΔn",
+      "Kp = Kc(RT)^Δn",
+      "Kp = Kc / RT",
+      "Kp = Kc always"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_229",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "Ka is called the:",
+    "options": [
+      "Solubility product",
+      "Acid dissociation constant",
+      "Base dissociation constant",
+      "Partition coefficient"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_230",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "At 25°C, pKa + pKb for a conjugate acid-base pair equals:",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "Depends only on temperature"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_231",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "Ksp is the:",
+    "options": [
+      "Rate constant",
+      "Solubility product constant",
+      "Stability constant of complexes",
+      "Partition constant"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_232",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "Addition of an inert gas at constant volume to a gaseous equilibrium system:",
+    "options": [
+      "Shifts equilibrium forward",
+      "Shifts equilibrium backward",
+      "Has no effect on equilibrium position",
+      "Increases Kc"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_233",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "Which factor changes the value of the equilibrium constant K?",
+    "options": [
+      "Pressure",
+      "Concentration of reactants",
+      "Temperature",
+      "Addition of a catalyst"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_234",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "An amphoteric substance can act as both:",
+    "options": [
+      "Oxidizing and reducing agent",
+      "Acid and base",
+      "Electrolyte and non-electrolyte",
+      "Solute and solvent"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_235",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "The ionic product of water (Kw) at 25°C is:",
+    "options": [
+      "10⁻⁷",
+      "10⁻¹⁴",
+      "10⁻¹³",
+      "10⁻¹²"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_236",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "Strong acids in aqueous solution are:",
+    "options": [
+      "Partially dissociated",
+      "Completely dissociated",
+      "Non-electrolytes",
+      "Weak proton donors"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_237",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "The common ion effect shifts the equilibrium toward:",
+    "options": [
+      "Producing more of the common ion",
+      "Producing less of the common ion (suppresses dissociation)",
+      "Producing more products",
+      "No shift"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_238",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_14",
+    "text": "For weak acid HA at concentration C with acid dissociation constant Ka, the degree of dissociation α ≈:",
+    "options": [
+      "Ka/C",
+      "√(Ka/C)",
+      "C/Ka",
+      "Ka·C"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_239",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "In electrolysis, oxidation occurs at the:",
+    "options": [
+      "Cathode",
+      "Anode",
+      "Both electrodes simultaneously",
+      "Salt bridge"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_240",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "In a galvanic (voltaic) cell, the anode is:",
+    "options": [
+      "The positive electrode",
+      "Where reduction occurs",
+      "The negative electrode",
+      "Where cations accumulate"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_241",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "The EMF of a galvanic cell depends mainly on:",
+    "options": [
+      "Size of electrodes",
+      "Nature of electrodes and electrolyte concentrations",
+      "Amount of current drawn",
+      "Color of the electrolyte solution"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_242",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "The Nernst equation modifies the standard cell potential for:",
+    "options": [
+      "Temperature changes only at 25°C",
+      "Concentration changes at any temperature",
+      "Pressure changes only",
+      "Resistance changes"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_243",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "Faraday's constant F is approximately:",
+    "options": [
+      "6.022 × 10²³ C/mol",
+      "96485 C/mol",
+      "8.314 J/mol·K",
+      "1.6 × 10⁻¹⁹ C"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_244",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "The standard electrode potential of the standard hydrogen electrode (SHE) is:",
+    "options": [
+      "1.0 V",
+      "0.0 V",
+      "–1.0 V",
+      "1.23 V"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_245",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "Molar conductance of an electrolyte solution generally increases with:",
+    "options": [
+      "Decreasing temperature",
+      "Increasing dilution",
+      "Decreasing ion concentration",
+      "Adding non-electrolyte solute"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_246",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "Kohlrausch's law of independent migration states that at infinite dilution:",
+    "options": [
+      "Conductance is zero",
+      "Molar conductance equals the sum of individual ionic molar conductances",
+      "All electrolytes have equal conductance",
+      "Molar conductance is constant regardless of concentration"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_247",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "In a Daniell cell (Zn|ZnSO₄||CuSO₄|Cu), which metal undergoes oxidation?",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Both metals",
+      "Neither metal"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_248",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "In electrolytic refining of copper, the arrangement is:",
+    "options": [
+      "Impure copper as anode, pure copper as cathode",
+      "Pure copper as anode, impure copper as cathode",
+      "Both electrodes are carbon",
+      "Both electrodes are aluminum"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_249",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "The Gibbs free energy change ΔG and cell EMF E are related by (n = moles of electrons, F = Faraday):",
+    "options": [
+      "ΔG = nFE",
+      "ΔG = –nFE",
+      "ΔG = nFE/RT",
+      "ΔG = RT ln E"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_250",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "A lead storage battery uses which electrolyte?",
+    "options": [
+      "ZnSO₄ solution",
+      "Dilute H₂SO₄",
+      "NaOH solution",
+      "CuSO₄ solution"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_251",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "To deposit 1 mole of Cu²⁺ ions during electrolysis, the quantity of electricity needed is:",
+    "options": [
+      "1 Faraday",
+      "2 Faraday",
+      "0.5 Faraday",
+      "4 Faraday"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_252",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "Rusting of iron is an example of:",
+    "options": [
+      "An endothermic process",
+      "An electrochemical corrosion process",
+      "A purely physical process",
+      "A photochemical process"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_253",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "The standard cell potential of a Daniell cell (Zn-Cu) is approximately:",
+    "options": [
+      "0.34 V",
+      "0.76 V",
+      "1.10 V",
+      "1.50 V"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_254",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "The salt bridge in a galvanic cell:",
+    "options": [
+      "Transfers electrons between half-cells",
+      "Maintains electrical neutrality and completes the circuit",
+      "Provides chemical energy",
+      "Increases internal resistance"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_255",
+    "exam_id": "exam_2",
+    "subject_id": "sub_05",
+    "chapter_id": "ch_15",
+    "text": "Cathodic protection prevents corrosion by:",
+    "options": [
+      "Painting the metal surface",
+      "Making the metal the cathode using a sacrificial anode or impressed current",
+      "Coating with a polymer",
+      "Heating the metal"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_256",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "The 'powerhouse of the cell' is:",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_257",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "The cell membrane is primarily composed of:",
+    "options": [
+      "Proteins only",
+      "Carbohydrates",
+      "A phospholipid bilayer with embedded proteins",
+      "DNA"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_258",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Ribosomes are the sites of:",
+    "options": [
+      "DNA replication",
+      "Lipid synthesis",
+      "Protein synthesis (translation)",
+      "ATP production"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_259",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "The control center of the cell is:",
+    "options": [
+      "Mitochondria",
+      "Vacuole",
+      "Nucleus",
+      "Cell membrane"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_260",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Prokaryotic cells, unlike eukaryotic cells, lack:",
+    "options": [
+      "Cell wall",
+      "Ribosomes",
+      "A membrane-bound nucleus",
+      "DNA"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_261",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "In osmosis, water moves:",
+    "options": [
+      "From low to high solute concentration (high to low water potential)",
+      "From high to low solute concentration (low to high water potential)",
+      "Against the concentration gradient",
+      "Via active transport using ATP"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_262",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "The Golgi apparatus is primarily involved in:",
+    "options": [
+      "Cellular respiration",
+      "Processing, modifying, and packaging proteins for secretion",
+      "DNA replication",
+      "Photosynthesis"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_263",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Which organelle contains its own DNA and ribosomes?",
+    "options": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Lysosome"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_264",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Mitosis produces how many genetically identical daughter cells from one cell?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_265",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "The cell wall in plant cells is primarily made of:",
+    "options": [
+      "Chitin",
+      "Peptidoglycan",
+      "Cellulose",
+      "Collagen"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_266",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Lysosomes are called 'suicide bags' because they contain:",
+    "options": [
+      "Hydrolytic (digestive) enzymes",
+      "Respiratory enzymes",
+      "DNA and RNA",
+      "Structural proteins for export"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_267",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Active transport of molecules across a membrane requires:",
+    "options": [
+      "Water only",
+      "No energy input",
+      "ATP (energy)",
+      "Gravity"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_268",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Endoplasmic reticulum studded with ribosomes is called:",
+    "options": [
+      "Smooth ER",
+      "Rough ER",
+      "Nuclear envelope",
+      "Golgi stack"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_269",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Meiosis results in:",
+    "options": [
+      "2 diploid daughter cells",
+      "4 diploid daughter cells",
+      "4 haploid daughter cells",
+      "2 haploid daughter cells"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_270",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Centrioles are involved in:",
+    "options": [
+      "Photosynthesis",
+      "Protein synthesis",
+      "Formation of the spindle apparatus during cell division",
+      "ATP synthesis"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_271",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "The fluid mosaic model describes the structure of:",
+    "options": [
+      "DNA double helix",
+      "Cell (plasma) membrane",
+      "Cytoplasm",
+      "Nuclear envelope exclusively"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_272",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_16",
+    "text": "Large central vacuoles in plant cells help by:",
+    "options": [
+      "Producing energy via respiration",
+      "Maintaining turgor pressure and cell shape",
+      "Synthesizing proteins",
+      "Storing DNA"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_273",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "DNA stands for:",
+    "options": [
+      "Deoxyribonucleic acid",
+      "Diribonucleic acid",
+      "Deoxyribose nitrogen acid",
+      "Dimethylnucleic acid"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_274",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "The double helix structure of DNA was proposed by:",
+    "options": [
+      "Mendel and Morgan",
+      "Watson and Crick",
+      "Darwin and Wallace",
+      "Pauling and Corey"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_275",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "In DNA, adenine (A) always pairs with:",
+    "options": [
+      "Cytosine",
+      "Guanine",
+      "Uracil",
+      "Thymine"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_276",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "Mendel's law of segregation states that:",
+    "options": [
+      "Genes for different traits assort together",
+      "Alleles of a gene pair separate during gamete formation",
+      "Dominant alleles eliminate recessive ones permanently",
+      "Traits blend together in offspring"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_277",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "A dominant trait is expressed when:",
+    "options": [
+      "Only recessive alleles are present",
+      "At least one dominant allele is present",
+      "Two recessive alleles are present (homozygous recessive)",
+      "The gene has mutated"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_278",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "The genotype AA represents:",
+    "options": [
+      "Heterozygous",
+      "Hemizygous",
+      "Homozygous dominant",
+      "Homozygous recessive"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_279",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "The central dogma of molecular biology describes the flow of information as:",
+    "options": [
+      "DNA → RNA → Protein",
+      "RNA → DNA → Protein",
+      "Protein → DNA → RNA",
+      "DNA → Protein → RNA"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_280",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "Translation is the process of making:",
+    "options": [
+      "DNA from RNA template",
+      "RNA from DNA template",
+      "Protein from mRNA",
+      "mRNA from tRNA"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_281",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "A mutation is:",
+    "options": [
+      "Normal genetic variation due to recombination",
+      "A change in the DNA sequence (nucleotide sequence)",
+      "The process of crossing over",
+      "Normal gene expression"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_282",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "Codominance is observed in blood group:",
+    "options": [
+      "AO (heterozygous)",
+      "AB (both A and B antigens expressed)",
+      "OO (homozygous)",
+      "All blood groups equally"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_283",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "X-linked recessive traits are more common in males because:",
+    "options": [
+      "Males have two X chromosomes and express both alleles",
+      "Males have only one X chromosome, so a single recessive allele is expressed",
+      "Males have no sex chromosomes",
+      "The Y chromosome carries most recessive genes"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_284",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "The term 'genotype' refers to:",
+    "options": [
+      "Physical appearance and traits",
+      "The genetic makeup (allele composition)",
+      "Environmental influence on appearance",
+      "The protein produced"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_285",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "Transcription produces:",
+    "options": [
+      "DNA from a protein template",
+      "mRNA from a DNA template",
+      "Protein from mRNA",
+      "tRNA from rRNA"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_286",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "Crossing over between homologous chromosomes occurs during:",
+    "options": [
+      "Mitosis (prophase)",
+      "Meiosis I (prophase I)",
+      "Meiosis II (prophase II)",
+      "DNA replication (S-phase)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_287",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "Haemophilia is caused by a deficiency of:",
+    "options": [
+      "Red blood cells",
+      "Clotting factors (VIII or IX)",
+      "Platelets",
+      "White blood cells"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_288",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "The ABO blood group system in humans involves:",
+    "options": [
+      "One gene with two alleles",
+      "Two separate genes",
+      "One gene with three alleles (Iᴬ, Iᴮ, i) showing codominance",
+      "Three separate independent genes"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_289",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_17",
+    "text": "A 'carrier' of an autosomal recessive disease is an individual who is:",
+    "options": [
+      "Affected by the disease",
+      "Heterozygous (one recessive, one dominant allele)",
+      "Homozygous recessive",
+      "Immune to the disease permanently"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_290",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "The enzyme in saliva that begins carbohydrate digestion is:",
+    "options": [
+      "Pepsin",
+      "Trypsin",
+      "Salivary amylase (ptyalin)",
+      "Lipase"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_291",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Oxygen is transported in the blood mainly by:",
+    "options": [
+      "Dissolved in plasma",
+      "White blood cells",
+      "Hemoglobin in red blood cells",
+      "Platelets"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_292",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "The sinoatrial (SA) node is called the cardiac pacemaker because:",
+    "options": [
+      "It physically pumps blood",
+      "It spontaneously generates electrical impulses initiating each heartbeat",
+      "It stores oxygenated blood",
+      "It filters blood from the lungs"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_293",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Bile is produced by the:",
+    "options": [
+      "Pancreas",
+      "Stomach",
+      "Liver",
+      "Small intestine (duodenum)"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_294",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "The nephron is the structural and functional unit of the:",
+    "options": [
+      "Liver",
+      "Brain",
+      "Kidney",
+      "Lungs"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_295",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Insulin is secreted by:",
+    "options": [
+      "Liver cells",
+      "Anterior pituitary gland",
+      "Beta cells of the islets of Langerhans in the pancreas",
+      "Adrenal cortex"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_296",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "The normal range of arterial blood pH is:",
+    "options": [
+      "6.8 – 7.0",
+      "7.35 – 7.45",
+      "7.8 – 8.0",
+      "6.5 – 7.0"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_297",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Pulmonary circulation carries blood:",
+    "options": [
+      "From heart to body tissues (systemic)",
+      "From body tissues back to heart",
+      "Between the heart and the lungs",
+      "Only to the brain"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_298",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Synaptic transmission between neurons uses:",
+    "options": [
+      "Electrical impulses directly across the synaptic gap",
+      "Chemical neurotransmitters released into the synaptic cleft",
+      "Direct ion transfer without any mediators",
+      "Osmosis of water molecules"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_299",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Lymph nodes function to:",
+    "options": [
+      "Produce red blood cells",
+      "Filter lymph fluid and produce immune cells (lymphocytes)",
+      "Digest proteins",
+      "Regulate blood pressure"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_300",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Glucagon, which raises blood glucose levels, is produced by:",
+    "options": [
+      "Alpha cells of the pancreas",
+      "Beta cells of the pancreas",
+      "Liver cells",
+      "Thyroid gland"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_301",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Antibodies (immunoglobulins) are produced by:",
+    "options": [
+      "Red blood cells",
+      "Platelets",
+      "B lymphocytes (plasma cells)",
+      "T lymphocytes (cytotoxic T cells)"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_302",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Tidal volume is the volume of air:",
+    "options": [
+      "Inhaled with maximum force",
+      "Remaining in the lungs after maximal expiration (residual volume)",
+      "Inhaled and exhaled during normal, quiet breathing",
+      "Total capacity of the lungs"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_303",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "The epiglottis prevents food from entering the:",
+    "options": [
+      "Stomach",
+      "Trachea (airway) during swallowing",
+      "Esophagus",
+      "Small intestine"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_304",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "ADH (antidiuretic hormone / vasopressin) promotes:",
+    "options": [
+      "Water excretion by the kidneys",
+      "Water reabsorption in kidney tubules, concentrating urine",
+      "Increased salt loss in urine",
+      "Decrease in blood pressure"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_305",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "Digestion of proteins begins in the:",
+    "options": [
+      "Mouth",
+      "Esophagus",
+      "Stomach (by pepsin in acidic environment)",
+      "Small intestine only"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_306",
+    "exam_id": "exam_2",
+    "subject_id": "sub_06",
+    "chapter_id": "ch_18",
+    "text": "The left ventricle of the heart pumps oxygenated blood into:",
+    "options": [
+      "The lungs via pulmonary artery",
+      "The right atrium",
+      "The aorta for systemic circulation",
+      "The pulmonary veins"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_307",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The Indus Valley Civilization flourished approximately during:",
+    "options": [
+      "1000–500 BCE",
+      "2500–1700 BCE",
+      "500–200 BCE",
+      "3500–3000 BCE"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_308",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The script of the Indus Valley Civilization:",
+    "options": [
+      "Has been fully deciphered by scholars",
+      "Has not been deciphered yet",
+      "Was identified as Sanskrit",
+      "Was Brahmi script"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_309",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The Rigveda is one of the:",
+    "options": [
+      "Upanishads",
+      "Four Vedas",
+      "Puranas",
+      "Epics (Ramayana/Mahabharata)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_310",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The founder of the Mauryan Empire was:",
+    "options": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Samudragupta"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_311",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "Emperor Ashoka embraced Buddhism after being deeply affected by the:",
+    "options": [
+      "Battle of Panipat",
+      "Battle of Tarain",
+      "Kalinga War",
+      "Battle of Hydaspes"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_312",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The Arthashastra, a treatise on statecraft and economic policy, was authored by:",
+    "options": [
+      "Ashoka",
+      "Chanakya (Kautilya)",
+      "Banabhatta",
+      "Kalidasa"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_313",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "Mahavira, the 24th Tirthankara, founded or systematized which religion?",
+    "options": [
+      "Buddhism",
+      "Sikhism",
+      "Jainism",
+      "Zoroastrianism"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_314",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The Gupta period in Indian history is often called the:",
+    "options": [
+      "Dark Age of India",
+      "Age of Iron",
+      "Golden Age of India",
+      "Age of Bronze"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_315",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "Samudragupta is known in history as a great:",
+    "options": [
+      "Religious reformer who spread Buddhism",
+      "Conqueror and patron of arts (called 'Indian Napoleon')",
+      "Builder of the Taj Mahal",
+      "Author of the Ramayana"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_316",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "Gautama Buddha attained enlightenment (Nirvana) at:",
+    "options": [
+      "Varanasi (Banaras)",
+      "Bodh Gaya (under the Bodhi tree)",
+      "Sarnath",
+      "Kushinagar"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_317",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The Sangam literature is associated with:",
+    "options": [
+      "North India (Gangetic plains)",
+      "Tamil Nadu (South India) – ancient Tamil poetry",
+      "Maharashtra Deccan region",
+      "Kerala coastal region"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_318",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "Harappan cities were remarkable for:",
+    "options": [
+      "Extensive use of iron weapons",
+      "Advanced town planning with grid-pattern streets and covered drainage",
+      "Large Hindu temples",
+      "Large-scale use of horse-drawn war chariots"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_319",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The Battle of Hydaspes (326 BCE) was fought between Alexander the Great and:",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "King Porus",
+      "Bindusara"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_320",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The Upanishad containing the famous Mahavakya 'Tat Tvam Asi' (That Thou Art) is:",
+    "options": [
+      "Brihadaranyaka Upanishad",
+      "Mandukya Upanishad",
+      "Chandogya Upanishad",
+      "Katha Upanishad"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_321",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "Nalanda University, one of the greatest centres of learning in the ancient world, flourished mainly during the:",
+    "options": [
+      "Mauryan period",
+      "Gupta and post-Gupta periods",
+      "Mughal period",
+      "British colonial period"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_322",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "Aryabhata was a famous ancient Indian:",
+    "options": [
+      "Poet and playwright",
+      "King of the Gupta dynasty",
+      "Astronomer and mathematician",
+      "Merchant and trader"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_323",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_19",
+    "text": "The Rock Edicts and Pillar Edicts of Ashoka were written mainly in:",
+    "options": [
+      "Sanskrit",
+      "Tamil",
+      "Prakrit (using Brahmi and Kharosthi scripts)",
+      "Persian (Aramaic)"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_324",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The Delhi Sultanate was established by:",
+    "options": [
+      "Babur",
+      "Qutb-ud-din Aibak",
+      "Akbar",
+      "Sher Shah Suri"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_325",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The Qutb Minar was built beginning under:",
+    "options": [
+      "Akbar",
+      "Qutb-ud-din Aibak (completed by Iltutmish)",
+      "Firuz Shah Tughlaq",
+      "Alauddin Khilji"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_326",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "Babur defeated Ibrahim Lodi and established Mughal rule at the:",
+    "options": [
+      "First Battle of Panipat (1526)",
+      "Second Battle of Panipat (1556)",
+      "Third Battle of Panipat (1761)",
+      "Battle of Tarain (1191)"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_327",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "Akbar's policy of universal peace and tolerance toward all religions was called:",
+    "options": [
+      "Dhamma",
+      "Din-i-Ilahi",
+      "Sulh-i-kul (Peace with all)",
+      "Ibadat Khana discussions"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_328",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The Taj Mahal, a UNESCO World Heritage Site, was built by Emperor:",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_329",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "Alauddin Khilji is known for introducing market reforms and successfully repelling:",
+    "options": [
+      "Portuguese invasions",
+      "Mongol invasions",
+      "Maratha attacks",
+      "British traders"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_330",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The Battle of Talikota (1565) led to the fall of the:",
+    "options": [
+      "Delhi Sultanate",
+      "Vijayanagara Empire",
+      "Maratha Confederacy",
+      "Mughal Empire"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_331",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "Guru Nanak Dev Ji was the founder of:",
+    "options": [
+      "Jainism",
+      "Sikhism",
+      "Buddhism",
+      "Brahmo Samaj"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_332",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "Chhatrapati Shivaji Maharaj founded the:",
+    "options": [
+      "Mughal Empire",
+      "Maratha Kingdom",
+      "Delhi Sultanate",
+      "Vijayanagara Kingdom"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_333",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The Moroccan traveler Ibn Battuta described his visit to India during the reign of:",
+    "options": [
+      "Akbar",
+      "Muhammad bin Tughlaq",
+      "Aurangzeb",
+      "Babur"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_334",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The Bhakti movement emphasized:",
+    "options": [
+      "Strict caste distinctions",
+      "Elaborate ritual ceremonies",
+      "Personal devotion to God, equality, and rejection of caste",
+      "Military strength"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_335",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The Third Battle of Panipat (1761) was fought between the Marathas and:",
+    "options": [
+      "The Mughals",
+      "Ahmad Shah Abdali (Durrani) of Afghanistan",
+      "The British East India Company",
+      "The Nawab of Bengal"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_336",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The Peshwa was the:",
+    "options": [
+      "Title for Mughal governors",
+      "Prime Minister / chief administrator of the Maratha Empire",
+      "Military rank in the Delhi Sultanate",
+      "British colonial officer"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_337",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "Which Mughal emperor wrote a famous autobiography titled 'Tuzuk-i-Jahangiri'?",
+    "options": [
+      "Akbar",
+      "Babur (who wrote Baburnama)",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_338",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The poet-saint Kabir is considered a disciple of:",
+    "options": [
+      "Guru Nanak Dev",
+      "Ramananda",
+      "Chaitanya Mahaprabhu",
+      "Adi Shankaracharya"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_339",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "Firuz Shah Tughlaq of the Delhi Sultanate is remembered for:",
+    "options": [
+      "Extensive military conquests in South India",
+      "Public works including canals, hospitals, and towns",
+      "Founding the Mughal dynasty",
+      "Defeating the Marathas"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_340",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_20",
+    "text": "The Mughal Emperor who introduced the Din-i-Ilahi, a syncretic spiritual movement, was:",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Shah Jahan"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_341",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Revolt of 1857 (First War of Indian Independence) began at:",
+    "options": [
+      "Delhi",
+      "Meerut",
+      "Lucknow",
+      "Kanpur"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_342",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Indian National Congress (INC) was founded in:",
+    "options": [
+      "1857",
+      "1885",
+      "1905",
+      "1920"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_343",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The slogan 'Do or Die' was given during the Quit India Movement by:",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Bal Gangadhar Tilak"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_344",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Partition of Bengal in 1905 was carried out by Viceroy:",
+    "options": [
+      "Lord Dalhousie",
+      "Lord Curzon",
+      "Lord Mountbatten",
+      "Lord Canning"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_345",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Jallianwala Bagh massacre took place in:",
+    "options": [
+      "1917",
+      "1919",
+      "1921",
+      "1915"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_346",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The first Governor-General of independent India was:",
+    "options": [
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Lord Mountbatten",
+      "C. Rajagopalachari"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_347",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Dandi March (Salt March, 1930) was part of the:",
+    "options": [
+      "Quit India Movement",
+      "Non-Cooperation Movement",
+      "Civil Disobedience Movement",
+      "Khilafat Movement"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_348",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Simon Commission (1927) was boycotted by Indians because:",
+    "options": [
+      "It had no Indian members",
+      "It proposed the partition of India",
+      "It recommended higher taxes",
+      "It banned the INC"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_349",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "India became a sovereign democratic republic on:",
+    "options": [
+      "15 August 1947",
+      "26 November 1949",
+      "26 January 1950",
+      "15 August 1950"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_350",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Non-Cooperation Movement was launched by Gandhi in:",
+    "options": [
+      "1915",
+      "1920",
+      "1925",
+      "1930"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_351",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "Dr. B.R. Ambedkar was the chairman of the:",
+    "options": [
+      "Planning Commission",
+      "Constitution Drafting Committee",
+      "Finance Commission",
+      "Election Commission"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_352",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Poona Pact (1932) was a political agreement between:",
+    "options": [
+      "Gandhi and Jinnah",
+      "Gandhi and Dr. B.R. Ambedkar",
+      "Nehru and Sardar Patel",
+      "Congress and the Muslim League"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_353",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "India's first Prime Minister was:",
+    "options": [
+      "Mahatma Gandhi",
+      "Sardar Vallabhbhai Patel",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_354",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Rowlatt Act (1919) was infamous for authorizing:",
+    "options": [
+      "Salt tax increase",
+      "Higher land revenue",
+      "Detention without trial to suppress political activity",
+      "Partition of Punjab"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_355",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "'Swaraj is my birthright and I shall have it' was proclaimed by:",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Bal Gangadhar Tilak",
+      "Lala Lajpat Rai"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_356",
+    "exam_id": "exam_3",
+    "subject_id": "sub_07",
+    "chapter_id": "ch_21",
+    "text": "The Radcliffe Line determined the boundary between:",
+    "options": [
+      "India and Nepal",
+      "India and China",
+      "India and Pakistan",
+      "India and Sri Lanka"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_357",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "The in-situ breakdown of rock into smaller fragments without displacement is called:",
+    "options": [
+      "Erosion",
+      "Weathering",
+      "Deposition",
+      "Metamorphism"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_358",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "The ozone layer, which absorbs harmful UV radiation, is located in the:",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_359",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "Ocean currents affect the climate of coastal regions by:",
+    "options": [
+      "Increasing atmospheric pressure",
+      "Transferring heat from equatorial to polar regions (and vice versa)",
+      "Reducing precipitation globally",
+      "Triggering earthquakes"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_360",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "The theory of plate tectonics explains:",
+    "options": [
+      "Formation of clouds and rainfall",
+      "Earthquakes, volcanic activity, and mountain building",
+      "Ocean tides",
+      "Soil formation and erosion"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_361",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "Which type of rock is formed from the solidification of molten magma?",
+    "options": [
+      "Sedimentary",
+      "Metamorphic",
+      "Igneous",
+      "Fossiliferous"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_362",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "The hydrological (water) cycle involves:",
+    "options": [
+      "Evaporation, condensation, and precipitation continuously",
+      "Movement of tectonic plates",
+      "Flow of ocean currents only",
+      "Wind formation patterns"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_363",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "The equatorial region receives the most solar radiation because:",
+    "options": [
+      "It is closest to the Sun",
+      "The Sun's rays strike most directly (near perpendicular)",
+      "It has fewer clouds",
+      "It is at the highest altitude"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_364",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "Sea breezes blow from the sea toward the land:",
+    "options": [
+      "At night, when land is warmer",
+      "During the day, when land heats faster and air rises",
+      "Always from west to east",
+      "Away from mountains toward plains"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_365",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "The Coriolis effect causes moving air and water masses to:",
+    "options": [
+      "Rise vertically due to heating",
+      "Deflect to the right in the Northern Hemisphere and left in the Southern",
+      "Fall toward the equator",
+      "Move from high to low altitude"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_366",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "Which is the highest mountain range in the world?",
+    "options": [
+      "Rocky Mountains",
+      "Alps",
+      "Himalayas",
+      "Andes"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_367",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "Continental shelf is:",
+    "options": [
+      "The flat deep abyssal plain of the ocean",
+      "The shallow underwater extension of a continent",
+      "The mid-ocean ridge system",
+      "A deep oceanic trench"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_368",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "Trade winds blow from:",
+    "options": [
+      "Polar regions toward the equator",
+      "Subtropical high-pressure belts toward the equatorial low-pressure belt",
+      "West to east at all latitudes",
+      "North to south only in the Northern Hemisphere"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_369",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "Karst topography (caves, sinkholes, stalactites) is formed by:",
+    "options": [
+      "Wind erosion in deserts",
+      "Volcanic activity",
+      "Dissolution and chemical weathering of limestone",
+      "Glacial erosion"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_370",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "The greenhouse effect results from:",
+    "options": [
+      "Ozone depletion in the stratosphere",
+      "Greenhouse gases (CO₂, CH₄, etc.) trapping outgoing infrared radiation",
+      "Increased sunspot activity",
+      "Deep ocean currents"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_371",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "Alluvial plains are fertile agricultural lands formed by:",
+    "options": [
+      "Glacial deposition (moraines)",
+      "Wind deposition (loess)",
+      "River sediment deposition (alluvium)",
+      "Volcanic lava flows"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_372",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_22",
+    "text": "Which of the following is an example of a fold mountain?",
+    "options": [
+      "Deccan Plateau",
+      "Himalayas",
+      "Aravalli Range (block mountain)",
+      "Nilgiri Hills"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_373",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "The global human population crossed 8 billion approximately in:",
+    "options": [
+      "2000",
+      "2011",
+      "2022",
+      "2030 (projected)"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_374",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "The demographic transition model describes how a country's population changes as it:",
+    "options": [
+      "Increases in military power",
+      "Moves from high birth/death rates to low birth/death rates with industrialization",
+      "Experiences urban-to-rural migration",
+      "Increases its age of marriage"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_375",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "Urbanization refers to:",
+    "options": [
+      "Development of rural areas",
+      "The increasing proportion of population living in cities",
+      "Increase in agricultural productivity",
+      "Deforestation for farming"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_376",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "As of 2023, the country with the highest population is:",
+    "options": [
+      "USA",
+      "India",
+      "China",
+      "Indonesia"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_377",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "The Human Development Index (HDI) measures development using:",
+    "options": [
+      "GDP per capita only",
+      "Military expenditure and trade",
+      "Life expectancy, education level, and per capita income",
+      "Population density and urbanization rate"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_378",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "Sustainable development means:",
+    "options": [
+      "Development without any environmental regulations",
+      "Maximizing economic growth and ignoring ecology",
+      "Meeting the needs of present generations without compromising future generations' ability to meet theirs",
+      "Only rural and agricultural development"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_379",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "Push factors that drive migration include:",
+    "options": [
+      "Better job opportunities at the destination",
+      "Poverty, conflict, natural disasters, and lack of resources at the origin",
+      "Good infrastructure at the destination",
+      "Higher quality of life at the destination"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_380",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "The Green Revolution in India (1960s-70s) was primarily associated with:",
+    "options": [
+      "Environmental conservation programs",
+      "Introduction of HYV seeds, fertilizers, and irrigation to boost food production",
+      "Forest protection policies",
+      "Expansion of renewable energy"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_381",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "A megacity is defined as an urban agglomeration with a population exceeding:",
+    "options": [
+      "1 million",
+      "5 million",
+      "10 million",
+      "50 million"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_382",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "Remittances in the context of migration refer to:",
+    "options": [
+      "Government subsidies to migrants",
+      "Money sent by migrants back to their home country/family",
+      "Foreign aid from developed nations",
+      "Trade payments between countries"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_383",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "The term 'brain drain' refers to:",
+    "options": [
+      "Deterioration of water quality in rivers",
+      "Emigration of educated and skilled workers to other countries",
+      "A public health crisis affecting cognitive ability",
+      "Decline in quality of education"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_384",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "An age-sex pyramid (population pyramid) with a wide base and a narrow top indicates:",
+    "options": [
+      "An aging population with low birth rate",
+      "A young population with high birth rate and high mortality",
+      "A rapidly declining population",
+      "A stable, stationary population"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_385",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "BRICS is an association of five major emerging economies. The 'S' originally stood for:",
+    "options": [
+      "Spain",
+      "South Africa",
+      "Singapore",
+      "Saudi Arabia"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_386",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "The Gini coefficient is a measure of:",
+    "options": [
+      "Economic growth rate",
+      "Income/wealth inequality within a population",
+      "Poverty headcount ratio",
+      "Unemployment rate"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_387",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "The primary sector of an economy includes:",
+    "options": [
+      "Manufacturing and construction",
+      "Financial and business services",
+      "Agriculture, forestry, fishing, and mining",
+      "Education and healthcare"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_388",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_23",
+    "text": "Which continent has the highest overall population density?",
+    "options": [
+      "Europe",
+      "Africa",
+      "North America",
+      "Asia"
+    ],
+    "correct_option": 3,
+    "marks": 1
+  },
+  {
+    "_id": "q_389",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Tropic of Cancer (23.5°N) passes through which Indian state's capital approximately?",
+    "options": [
+      "Mumbai (Maharashtra)",
+      "New Delhi",
+      "Bhopal (Madhya Pradesh)",
+      "Chennai (Tamil Nadu)"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_390",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Western Ghats run parallel to the:",
+    "options": [
+      "Northern Himalayan border",
+      "Eastern coast of India",
+      "Western (Malabar) coast of India",
+      "Southern tip only"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_391",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The river Ganga originates from:",
+    "options": [
+      "Amarkantak plateau",
+      "Yamunotri glacier",
+      "Gangotri glacier (Gomukh)",
+      "Lake Mansarovar in Tibet"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_392",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The largest state in India by area is:",
+    "options": [
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Uttar Pradesh"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_393",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Sundarbans is the world's largest:",
+    "options": [
+      "Desert region",
+      "Hill station complex",
+      "Mangrove delta forest (shared between India and Bangladesh)",
+      "Plateau region"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_394",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Deccan Plateau is bounded on the east and west by the:",
+    "options": [
+      "Himalayas and Vindhyas",
+      "Eastern Ghats and Western Ghats",
+      "Thar Desert and Brahmaputra valley",
+      "Ganga and Yamuna rivers"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_395",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "Which of these Indian rivers flows into the Arabian Sea (not the Bay of Bengal)?",
+    "options": [
+      "Ganga",
+      "Godavari",
+      "Narmada",
+      "Mahanadi"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_396",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The highest peak entirely within India is:",
+    "options": [
+      "Nanda Devi",
+      "Kanchenjunga (on India-Nepal border)",
+      "K2 (in Pakistan-administered Kashmir)",
+      "Mt. Everest"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_397",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Brahmaputra River originates in:",
+    "options": [
+      "Arunachal Pradesh (India)",
+      "Nepal",
+      "Tibet (China) near Mansarovar",
+      "Bangladesh"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_398",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Thar Desert is located mainly in the state of:",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_399",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Indian Monsoon is primarily caused by:",
+    "options": [
+      "Western disturbances from the Mediterranean",
+      "Differential heating of the Indian landmass and Indian Ocean creating seasonal wind reversal",
+      "El Niño Southern Oscillation only",
+      "Trade winds from the Arabian Sea only"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_400",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Union Territory with the smallest area in India is:",
+    "options": [
+      "Chandigarh",
+      "Lakshadweep",
+      "Puducherry",
+      "Dadra & Nagar Haveli and Daman & Diu"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_401",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Indian state with the longest coastline is:",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Gujarat",
+      "Andhra Pradesh"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_402",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "Chilika Lake, Asia's largest coastal lagoon, is located in:",
+    "options": [
+      "Kerala",
+      "Odisha",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_403",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "The Palk Strait separates India from:",
+    "options": [
+      "Bangladesh",
+      "Myanmar",
+      "Sri Lanka",
+      "Maldives"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_404",
+    "exam_id": "exam_3",
+    "subject_id": "sub_08",
+    "chapter_id": "ch_24",
+    "text": "Project Tiger, aimed at tiger conservation in India, was launched in:",
+    "options": [
+      "1970",
+      "1973",
+      "1980",
+      "1985"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_405",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "The Indian Constitution was adopted by the Constituent Assembly on:",
+    "options": [
+      "15 August 1947",
+      "26 November 1949",
+      "26 January 1950",
+      "15 August 1950"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_406",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "The Preamble of the Indian Constitution declares India to be:",
+    "options": [
+      "A Theocratic Democratic Republic",
+      "A Sovereign Socialist Secular Democratic Republic",
+      "A Federal Monarchy",
+      "A Presidential Democracy"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_407",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "Fundamental Rights are enshrined in which Part of the Indian Constitution?",
+    "options": [
+      "Part III",
+      "Part IV",
+      "Part II",
+      "Part V"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_408",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "Article 21A (Right to Education) makes free and compulsory education a right for children aged:",
+    "options": [
+      "5–15 years",
+      "6–14 years",
+      "5–18 years",
+      "6–16 years"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_409",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "Directive Principles of State Policy (DPSPs) are:",
+    "options": [
+      "Justiciable and enforceable in courts",
+      "Non-justiciable but fundamental in the governance of the country",
+      "Same as Fundamental Rights",
+      "Part of constitutional amendments only"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_410",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "The 42nd Amendment (1976) to the Indian Constitution is often called the:",
+    "options": [
+      "People's Constitution",
+      "Mini Constitution",
+      "Emergency Constitution",
+      "Secular Amendment"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_411",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "Article 352 of the Indian Constitution deals with:",
+    "options": [
+      "President's Rule in states (Article 356)",
+      "Financial Emergency (Article 360)",
+      "National Emergency (proclamation of emergency)",
+      "Special provisions for certain states"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_412",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "The Indian Constitution was primarily drafted under the chairmanship of:",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_413",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "Fundamental Duties of citizens are contained in:",
+    "options": [
+      "Article 12",
+      "Article 51A",
+      "Article 32",
+      "Article 21"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_414",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "India has a system of single citizenship, meaning:",
+    "options": [
+      "Only one citizen is allowed per state",
+      "Every Indian citizen is a citizen of India alone, not of individual states",
+      "Foreigners can easily become citizens",
+      "Citizens of one state cannot migrate to another"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_415",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "Article 370 (now abrogated) related to:",
+    "options": [
+      "Fundamental Rights of minorities",
+      "Emergency powers of the President",
+      "Special autonomous status of Jammu & Kashmir",
+      "Financial Emergency provisions"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_416",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "The doctrine of 'Basic Structure' of the Constitution was established in:",
+    "options": [
+      "A.K. Gopalan v. State of Madras",
+      "Kesavananda Bharati v. State of Kerala",
+      "Maneka Gandhi v. Union of India",
+      "Golak Nath v. State of Punjab"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_417",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "Currently, how many Fundamental Rights are guaranteed to Indian citizens?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_418",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "The Right to Property was removed from Fundamental Rights by the:",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "46th Amendment",
+      "52nd Amendment"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_419",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "The writ of Habeas Corpus protects against:",
+    "options": [
+      "Infringement of property rights",
+      "Illegal detention (secures personal liberty)",
+      "Violation of freedom of speech",
+      "Denial of the right to vote"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_420",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_25",
+    "text": "Judicial review means the power of courts to:",
+    "options": [
+      "Legislate on matters not covered by Parliament",
+      "Declare laws unconstitutional if they violate the Constitution",
+      "Arrest citizens committing crimes",
+      "Revise tax assessments"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_421",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "The Indian Parliament consists of:",
+    "options": [
+      "Lok Sabha only",
+      "Rajya Sabha only",
+      "President, Lok Sabha, and Rajya Sabha",
+      "President and Lok Sabha only"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_422",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "The maximum strength of the Lok Sabha (House of the People) is:",
+    "options": [
+      "542",
+      "545",
+      "552",
+      "543"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_423",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "The Rajya Sabha (Council of States) is a:",
+    "options": [
+      "Temporary house dissolved every 5 years",
+      "Permanent house (never dissolved as a whole)",
+      "Dissolved every 6 years",
+      "Entirely elected at one time"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_424",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "Money Bills can be introduced only in:",
+    "options": [
+      "Rajya Sabha",
+      "Either house with equal powers",
+      "Lok Sabha only",
+      "A joint sitting"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_425",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "The Vice President of India is the ex-officio Chairperson of:",
+    "options": [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "Both houses of Parliament",
+      "Planning Commission / NITI Aayog"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_426",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "A Bill becomes an Act (law) after:",
+    "options": [
+      "Lok Sabha passes it",
+      "Both houses pass it and the President gives assent",
+      "Rajya Sabha passes it",
+      "The Supreme Court approves it"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_427",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "A no-confidence motion in Parliament can be moved only against:",
+    "options": [
+      "The President of India",
+      "The Supreme Court judges",
+      "The Council of Ministers (Cabinet)",
+      "The Chairman of Rajya Sabha"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_428",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "Question Hour in Indian Parliament occurs during:",
+    "options": [
+      "The first hour of each sitting",
+      "The last hour of each sitting",
+      "The second half of a session",
+      "A specific day each week only"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_429",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "'Zero Hour' in Parliament is:",
+    "options": [
+      "A constitutional provision in Article 75",
+      "An informal convention for raising urgent matters after Question Hour",
+      "The name for budget session discussions",
+      "A special emergency session"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_430",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "The Speaker of Lok Sabha is elected by:",
+    "options": [
+      "The President of India",
+      "Members of the Lok Sabha",
+      "Both houses in a joint sitting",
+      "The Prime Minister"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_431",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "A constitutional amendment under Article 368 requires a:",
+    "options": [
+      "Simple majority only",
+      "Special majority (2/3 of members present and voting, plus majority of total membership of each house)",
+      "Presidential assent only, without Parliamentary vote",
+      "Supreme Court approval before passage"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_432",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "A joint sitting of both houses of Parliament is presided over by:",
+    "options": [
+      "The President of India",
+      "The Vice President (Chairman of Rajya Sabha)",
+      "The Speaker of Lok Sabha",
+      "The Prime Minister"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_433",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "The normal term of the Lok Sabha is:",
+    "options": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "3 years"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_434",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "The President of India can issue Ordinances when:",
+    "options": [
+      "Parliament is in session",
+      "Parliament is not in session and immediate action is required",
+      "At any time without restriction",
+      "Only during a national Emergency"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_435",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "Withdrawal from the Consolidated Fund of India requires authorization by:",
+    "options": [
+      "A Presidential executive order alone",
+      "Parliamentary appropriation (Parliament)",
+      "A Supreme Court order",
+      "Only the Prime Minister's approval"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_436",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_26",
+    "text": "The Anti-Defection Law is contained in which Schedule of the Constitution?",
+    "options": [
+      "Eighth Schedule",
+      "Ninth Schedule",
+      "Tenth Schedule",
+      "Twelfth Schedule"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_437",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "The Supreme Court of India was constituted and began functioning in:",
+    "options": [
+      "1947",
+      "1950",
+      "1935",
+      "1960"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_438",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "The Chief Justice of India is appointed by:",
+    "options": [
+      "Parliament by resolution",
+      "The Prime Minister alone",
+      "The President of India, based on seniority convention",
+      "The senior-most judge automatically without any formal appointment"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_439",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "Public Interest Litigation (PIL) in India was introduced primarily through:",
+    "options": [
+      "The original Constitution",
+      "Judicial activism by the Supreme Court",
+      "An Act of Parliament",
+      "A Presidential Ordinance"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_440",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "Article 32 of the Constitution is the 'Right to Constitutional Remedies' allowing citizens to:",
+    "options": [
+      "Speak freely without restriction",
+      "Move the Supreme Court to enforce Fundamental Rights (writs)",
+      "Demand equality before law",
+      "Access free education"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_441",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "Judicial review in the Indian context means:",
+    "options": [
+      "Higher courts reviewing lower court decisions on appeal",
+      "Power of Supreme Court and High Courts to declare laws/executive actions unconstitutional",
+      "Supreme Court reviewing all legislation before it is passed",
+      "Parliament reviewing court judgments"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_442",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "The strength (number of judges) of the Supreme Court can be changed by:",
+    "options": [
+      "A Constitutional Amendment only",
+      "Parliament by passing a law",
+      "A Presidential Ordinance",
+      "The Supreme Court itself"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_443",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "High Courts exercise which jurisdiction over all subordinate courts?",
+    "options": [
+      "Only original jurisdiction",
+      "Supervisory jurisdiction (Article 227)",
+      "No jurisdiction over lower courts",
+      "Only advisory jurisdiction"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_444",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "Lok Adalats are:",
+    "options": [
+      "Criminal courts for petty offences",
+      "Alternative dispute resolution forums for amicable settlement",
+      "Family courts for matrimonial disputes only",
+      "Military tribunals"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_445",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "The legal doctrine of 'stare decisis' means:",
+    "options": [
+      "Following previous judicial decisions as binding precedent",
+      "Every case must be decided entirely anew regardless of prior decisions",
+      "The government cannot be sued in its own courts",
+      "Judges have absolute and unlimited power"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_446",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "The Supreme Court of India has original exclusive jurisdiction in disputes between:",
+    "options": [
+      "Individual citizens of India",
+      "A citizen and a state government",
+      "Two or more state governments, or between a state and the Centre",
+      "India and a foreign nation"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_447",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "Separation of powers refers to the principle of distributing governmental authority among:",
+    "options": [
+      "Different territorial units (federalism)",
+      "The legislature, executive, and judiciary",
+      "The central government and state governments",
+      "Different government departments"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_448",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "The Consumer Protection Act provides for dispute resolution through consumer forums at:",
+    "options": [
+      "The Supreme Court level only",
+      "District, State, and National levels",
+      "Only the Supreme Court and High Courts",
+      "Industry-sponsored self-regulatory bodies"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_449",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "The writ of Mandamus is issued to compel:",
+    "options": [
+      "Release of a person from illegal detention",
+      "A public authority to perform a public duty it has failed to perform",
+      "A lower court to stop proceedings exceeding its jurisdiction",
+      "Inquiry into the legality of detention"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_450",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "Impeachment of the President of India requires a resolution passed by a majority of:",
+    "options": [
+      "Simple majority in Lok Sabha alone",
+      "2/3 of total membership of each house separately",
+      "A joint session with simple majority",
+      "Supreme Court recommendation first"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_451",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "The Right to Information (RTI) Act empowering citizens to access government records was passed in:",
+    "options": [
+      "1999",
+      "2002",
+      "2005",
+      "2010"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_452",
+    "exam_id": "exam_3",
+    "subject_id": "sub_09",
+    "chapter_id": "ch_27",
+    "text": "The National Green Tribunal (NGT) was established to handle:",
+    "options": [
+      "Anti-corruption cases",
+      "Environmental protection and related disputes",
+      "Consumer complaints",
+      "Labour disputes"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_453",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "The law of demand states that, all else being equal, as price increases, quantity demanded:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "First increases then decreases"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_454",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "Price elasticity of demand (PED) is calculated as:",
+    "options": [
+      "% change in price / % change in quantity demanded",
+      "% change in quantity demanded / % change in price",
+      "Absolute change in quantity / absolute change in price",
+      "1 / slope of demand curve"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_455",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "A perfectly competitive market is characterized by:",
+    "options": [
+      "One dominant seller",
+      "Few large sellers (oligopoly)",
+      "Many sellers with a homogeneous product and no price-making power",
+      "Price-making ability for individual sellers"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_456",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "Consumer surplus is the:",
+    "options": [
+      "Profit earned by producers",
+      "Difference between the maximum price a consumer is willing to pay and the actual market price",
+      "Government tax revenue from consumers",
+      "Total consumer expenditure"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_457",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "The law of diminishing marginal utility states that as a person consumes more units of a good:",
+    "options": [
+      "Total utility always falls",
+      "Marginal utility increases with each additional unit",
+      "Marginal utility decreases with each additional unit",
+      "Utility remains constant per unit"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_458",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "A monopoly is characterized by:",
+    "options": [
+      "Many sellers of similar products",
+      "Price-taker behavior",
+      "A single seller with a unique product and high barriers to entry",
+      "Perfect information for all participants"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_459",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "The supply curve slopes upward because:",
+    "options": [
+      "Higher prices mean lower production costs",
+      "Producers are willing and able to supply more at higher prices",
+      "Consumer demand increases with price",
+      "Government regulations mandate higher supply"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_460",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "Market equilibrium occurs where:",
+    "options": [
+      "Supply exceeds demand (surplus)",
+      "Demand exceeds supply (shortage)",
+      "Quantity demanded equals quantity supplied",
+      "Price is at its maximum"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_461",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "A price floor is effective when set:",
+    "options": [
+      "Below the equilibrium price",
+      "At the equilibrium price",
+      "Above the equilibrium price (creating a surplus)",
+      "At zero"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_462",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "The concept of opportunity cost refers to:",
+    "options": [
+      "The explicit monetary cost of a decision",
+      "The value of the next best alternative foregone",
+      "Only fixed production costs",
+      "The marginal cost of production"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_463",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "A Giffen good is an inferior good for which demand:",
+    "options": [
+      "Increases as consumer income rises",
+      "Increases as its price rises (upward-sloping demand curve)",
+      "Is perfectly inelastic",
+      "Increases with advertising"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_464",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "Marginal cost is defined as:",
+    "options": [
+      "Total cost divided by quantity produced",
+      "The change in total cost from producing one additional unit",
+      "Fixed cost per unit of output",
+      "Average total cost at a given output"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_465",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "Oligopoly is a market structure characterized by:",
+    "options": [
+      "A single dominant firm",
+      "Exactly two firms (duopoly only)",
+      "A few large firms with significant market power",
+      "Many small firms with no pricing power"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_466",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "When a price ceiling is set below the equilibrium price, the result is:",
+    "options": [
+      "A surplus (excess supply)",
+      "A shortage (excess demand)",
+      "No change in market equilibrium",
+      "Increased supply from producers"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_467",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "An indifference curve shows all combinations of two goods that give a consumer:",
+    "options": [
+      "Maximum possible utility",
+      "The same level of total utility (consumer is indifferent)",
+      "Different levels of utility",
+      "Zero utility (consumer does not want them)"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_468",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_28",
+    "text": "In the long run under perfect competition, economic profit tends to:",
+    "options": [
+      "Remain positive as firms are efficient",
+      "Become negative due to competition",
+      "Approach zero as entry/exit of firms adjusts supply",
+      "Increase indefinitely"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_469",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "GDP stands for:",
+    "options": [
+      "Gross Domestic Product",
+      "General Domestic Price index",
+      "Gross Development Plan",
+      "Government Domestic Policy"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_470",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "Inflation is best defined as:",
+    "options": [
+      "A decrease in the money supply",
+      "A sustained increase in the general price level over time",
+      "An increase in real GDP",
+      "A decrease in the unemployment rate"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_471",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "The Reserve Bank of India (RBI) is:",
+    "options": [
+      "A nationalized commercial bank",
+      "A department of the Finance Ministry",
+      "India's central bank (monetary authority)",
+      "A foreign exchange market"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_472",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "Monetary policy is primarily controlled by:",
+    "options": [
+      "Parliament through legislation",
+      "The Finance Ministry",
+      "The central bank (RBI in India)",
+      "The Planning Commission / NITI Aayog"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_473",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "Fiscal policy involves decisions about:",
+    "options": [
+      "Central bank's interest rate adjustments",
+      "Government spending levels and taxation",
+      "Exchange rate management",
+      "Foreign trade regulations"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_474",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "In the expenditure approach GDP = C + I + G + (X – M). The term (X – M) represents:",
+    "options": [
+      "Exchange rate differential",
+      "Net exports (exports minus imports)",
+      "External debt servicing",
+      "Gold and foreign exchange reserves"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_475",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "The Phillips curve illustrates the short-run trade-off between:",
+    "options": [
+      "GDP and investment levels",
+      "Inflation rate and unemployment rate",
+      "Interest rates and savings rate",
+      "Trade balance and GDP growth"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_476",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "The Repo Rate is the rate at which:",
+    "options": [
+      "Banks lend to their customers",
+      "The RBI lends short-term funds to commercial banks",
+      "Banks lend to each other in the overnight market",
+      "The government borrows from the market"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_477",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "Stagflation describes an economy experiencing:",
+    "options": [
+      "High economic growth with low inflation",
+      "Low growth with falling unemployment",
+      "High inflation combined with economic stagnation and high unemployment",
+      "Deflation alongside rapid growth"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_478",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "In Keynesian economics, the multiplier effect means that an initial increase in government spending leads to:",
+    "options": [
+      "An even larger increase in total national income",
+      "A proportional increase in the money supply",
+      "A decrease in tax revenues",
+      "No change in GDP if taxes are also raised"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_479",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "A trade deficit occurs when:",
+    "options": [
+      "Exports exceed imports (positive net exports)",
+      "Imports exceed exports (negative net exports)",
+      "The national budget is balanced",
+      "The current account shows a surplus"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_480",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "Open market operations (OMO) are used by the RBI to:",
+    "options": [
+      "Control the exchange rate of the rupee",
+      "Control money supply by buying or selling government securities",
+      "Set lending rates for commercial banks directly",
+      "Regulate foreign direct investment"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_481",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "Human capital refers to:",
+    "options": [
+      "Physical infrastructure like roads and bridges",
+      "The knowledge, skills, health, and education of the workforce",
+      "Financial capital and savings",
+      "Natural resource endowments"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_482",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "Purchasing Power Parity (PPP) comparisons of GDP adjust for:",
+    "options": [
+      "Trade deficits between countries",
+      "Differences in price levels across countries (to enable real comparisons)",
+      "Interest rate differentials",
+      "Exchange rate volatility risk"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_483",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "Quantitative Easing (QE) involves:",
+    "options": [
+      "Raising interest rates to curb inflation",
+      "Central bank purchasing financial assets to inject money into the economy",
+      "Reducing government spending to achieve fiscal balance",
+      "Increasing taxes to reduce demand"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_484",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_29",
+    "text": "National income accounting measures:",
+    "options": [
+      "Individual household income distribution",
+      "The total monetary value of all goods and services produced in a country",
+      "Government revenue and expenditure only",
+      "Corporate profits before taxes"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_485",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "India's economic planning began with the First Five-Year Plan in:",
+    "options": [
+      "1947",
+      "1951",
+      "1956",
+      "1961"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_486",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "The Green Revolution in India was spearheaded by agricultural scientist:",
+    "options": [
+      "Jawaharlal Nehru",
+      "M.S. Swaminathan",
+      "Indira Gandhi",
+      "Verghese Kurien"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_487",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "NITI Aayog was established in 2015 as a replacement for:",
+    "options": [
+      "Finance Commission",
+      "Planning Commission",
+      "Election Commission",
+      "SEBI"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_488",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "The White Revolution (Operation Flood) in India is associated with increasing production of:",
+    "options": [
+      "Food grains (wheat and rice)",
+      "Milk and dairy products",
+      "Salt",
+      "Cotton"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_489",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "India's economic liberalization (LPG reforms) was initiated in:",
+    "options": [
+      "1980",
+      "1985",
+      "1991",
+      "1995"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_490",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "The Goods and Services Tax (GST) implemented in 2017 replaced:",
+    "options": [
+      "Income tax",
+      "Multiple indirect taxes (VAT, excise duty, service tax, etc.)",
+      "Direct taxes like corporate tax",
+      "Import duties only"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_491",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "MUDRA stands for:",
+    "options": [
+      "Micro Units Development and Refinance Agency",
+      "Multi-Use Development and Rural Agency",
+      "Micro Urban Development Rights Agency",
+      "Municipal Urban Development Reform Act"
+    ],
+    "correct_option": 0,
+    "marks": 1
+  },
+  {
+    "_id": "q_492",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "India is a member of:",
+    "options": [
+      "G7 only",
+      "G20 only",
+      "Both G20 and BRICS",
+      "Neither G7 nor G20"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_493",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "The agricultural sector (including allied activities) contributes approximately what percentage to India's GDP (recent estimates)?",
+    "options": [
+      "50%",
+      "35%",
+      "15–18%",
+      "5%"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_494",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "SEZ stands for:",
+    "options": [
+      "Special Export Zone",
+      "Special Economic Zone",
+      "Specified Enterprise Zone",
+      "State Economic Zone"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_495",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "The poverty line in India is officially determined based on:",
+    "options": [
+      "Land ownership and type of housing",
+      "Per capita consumption expenditure and minimum calorie intake norms",
+      "Caste and religion of the household",
+      "Employment status and occupation only"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_496",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "The 'Make in India' initiative to boost domestic manufacturing was launched in:",
+    "options": [
+      "2012",
+      "2014",
+      "2016",
+      "2019"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_497",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "SEBI (Securities and Exchange Board of India) regulates:",
+    "options": [
+      "The banking sector",
+      "The insurance sector",
+      "Capital markets and securities trading",
+      "Foreign exchange transactions"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_498",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "India's official foreign exchange reserves are maintained and managed by:",
+    "options": [
+      "The Ministry of Finance",
+      "SEBI",
+      "The Reserve Bank of India (RBI)",
+      "EXIM Bank"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  },
+  {
+    "_id": "q_499",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "The Digital India programme primarily aims to:",
+    "options": [
+      "Build physical infrastructure like highways",
+      "Transform India into a digitally empowered society with e-governance",
+      "Replace all printed currency with digital currency",
+      "Nationalize technology companies"
+    ],
+    "correct_option": 1,
+    "marks": 1
+  },
+  {
+    "_id": "q_500",
+    "exam_id": "exam_3",
+    "subject_id": "sub_10",
+    "chapter_id": "ch_30",
+    "text": "The Index of Industrial Production (IIP) measures:",
+    "options": [
+      "Agricultural output growth",
+      "Services sector expansion",
+      "Short-term changes in industrial sector output",
+      "Total export growth"
+    ],
+    "correct_option": 2,
+    "marks": 1
+  }
+]

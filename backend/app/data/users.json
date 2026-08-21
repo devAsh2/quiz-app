@@ -1,0 +1,252 @@
+[
+  {
+    "_id": "user_01",
+    "username": "arjun_s",
+    "email": "arjun.sharma@email.com"
+  },
+  {
+    "_id": "user_02",
+    "username": "priya_p",
+    "email": "priya.patel@email.com"
+  },
+  {
+    "_id": "user_03",
+    "username": "rahul_v",
+    "email": "rahul.verma@email.com"
+  },
+  {
+    "_id": "user_04",
+    "username": "neha_s",
+    "email": "neha.singh@email.com"
+  },
+  {
+    "_id": "user_05",
+    "username": "aditya_k",
+    "email": "aditya.kumar@email.com"
+  },
+  {
+    "_id": "user_06",
+    "username": "pooja_g",
+    "email": "pooja.gupta@email.com"
+  },
+  {
+    "_id": "user_07",
+    "username": "vikram_r",
+    "email": "vikram.rao@email.com"
+  },
+  {
+    "_id": "user_08",
+    "username": "anjali_m",
+    "email": "anjali.mehta@email.com"
+  },
+  {
+    "_id": "user_09",
+    "username": "sanjay_n",
+    "email": "sanjay.nair@email.com"
+  },
+  {
+    "_id": "user_10",
+    "username": "deepika_i",
+    "email": "deepika.iyer@email.com"
+  },
+  {
+    "_id": "user_11",
+    "username": "rohit_b",
+    "email": "rohit.bhat@email.com"
+  },
+  {
+    "_id": "user_12",
+    "username": "sunita_p",
+    "email": "sunita.pillai@email.com"
+  },
+  {
+    "_id": "user_13",
+    "username": "amit_j",
+    "email": "amit.joshi@email.com"
+  },
+  {
+    "_id": "user_14",
+    "username": "kavita_r",
+    "email": "kavita.reddy@email.com"
+  },
+  {
+    "_id": "user_15",
+    "username": "nikhil_a",
+    "email": "nikhil.aggarwal@email.com"
+  },
+  {
+    "_id": "user_16",
+    "username": "meera_s",
+    "email": "meera.saxena@email.com"
+  },
+  {
+    "_id": "user_17",
+    "username": "vivek_c",
+    "email": "vivek.choudhary@email.com"
+  },
+  {
+    "_id": "user_18",
+    "username": "preeti_m",
+    "email": "preeti.mishra@email.com"
+  },
+  {
+    "_id": "user_19",
+    "username": "rajesh_t",
+    "email": "rajesh.tiwari@email.com"
+  },
+  {
+    "_id": "user_20",
+    "username": "swati_b",
+    "email": "swati.banerjee@email.com"
+  },
+  {
+    "_id": "user_21",
+    "username": "suresh_k",
+    "email": "suresh.krishnan@email.com"
+  },
+  {
+    "_id": "user_22",
+    "username": "anita_d",
+    "email": "anita.desai@email.com"
+  },
+  {
+    "_id": "user_23",
+    "username": "mohan_sh",
+    "email": "mohan.shetty@email.com"
+  },
+  {
+    "_id": "user_24",
+    "username": "lakshmi_m",
+    "email": "lakshmi.menon@email.com"
+  },
+  {
+    "_id": "user_25",
+    "username": "dinesh_p",
+    "email": "dinesh.pandey@email.com"
+  },
+  {
+    "_id": "user_26",
+    "username": "geeta_t",
+    "email": "geeta.thakur@email.com"
+  },
+  {
+    "_id": "user_27",
+    "username": "pankaj_m",
+    "email": "pankaj.malhotra@email.com"
+  },
+  {
+    "_id": "user_28",
+    "username": "divya_c",
+    "email": "divya.chauhan@email.com"
+  },
+  {
+    "_id": "user_29",
+    "username": "ashwin_p",
+    "email": "ashwin.patil@email.com"
+  },
+  {
+    "_id": "user_30",
+    "username": "priyanka_s",
+    "email": "priyanka.shah@email.com"
+  },
+  {
+    "_id": "user_31",
+    "username": "ravi_sh",
+    "email": "ravi.shankar@email.com"
+  },
+  {
+    "_id": "user_32",
+    "username": "nisha_k",
+    "email": "nisha.kulkarni@email.com"
+  },
+  {
+    "_id": "user_33",
+    "username": "manish_d",
+    "email": "manish.dubey@email.com"
+  },
+  {
+    "_id": "user_34",
+    "username": "ritika_b",
+    "email": "ritika.bose@email.com"
+  },
+  {
+    "_id": "user_35",
+    "username": "gaurav_k",
+    "email": "gaurav.kapoor@email.com"
+  },
+  {
+    "_id": "user_36",
+    "username": "smita_g",
+    "email": "smita.ghosh@email.com"
+  },
+  {
+    "_id": "user_37",
+    "username": "hardik_p",
+    "email": "hardik.patel@email.com"
+  },
+  {
+    "_id": "user_38",
+    "username": "tanvi_a",
+    "email": "tanvi.agarwal@email.com"
+  },
+  {
+    "_id": "user_39",
+    "username": "siddharth_r",
+    "email": "siddharth.roy@email.com"
+  },
+  {
+    "_id": "user_40",
+    "username": "ankita_d",
+    "email": "ankita.das@email.com"
+  },
+  {
+    "_id": "user_41",
+    "username": "tarun_m",
+    "email": "tarun.mathur@email.com"
+  },
+  {
+    "_id": "user_42",
+    "username": "pallavi_j",
+    "email": "pallavi.jain@email.com"
+  },
+  {
+    "_id": "user_43",
+    "username": "kiran_h",
+    "email": "kiran.hegde@email.com"
+  },
+  {
+    "_id": "user_44",
+    "username": "sonali_n",
+    "email": "sonali.naik@email.com"
+  },
+  {
+    "_id": "user_45",
+    "username": "bharat_p",
+    "email": "bharat.pandya@email.com"
+  },
+  {
+    "_id": "user_46",
+    "username": "leena_s",
+    "email": "leena.soni@email.com"
+  },
+  {
+    "_id": "user_47",
+    "username": "yash_r",
+    "email": "yash.rastogi@email.com"
+  },
+  {
+    "_id": "user_48",
+    "username": "nandita_n",
+    "email": "nandita.nambiar@email.com"
+  },
+  {
+    "_id": "user_49",
+    "username": "chirag_p",
+    "email": "chirag.parekh@email.com"
+  },
+  {
+    "_id": "user_50",
+    "username": "varsha_b",
+    "email": "varsha.bhatt@email.com"
+  }
+]
