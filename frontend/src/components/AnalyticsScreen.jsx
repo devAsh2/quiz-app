@@ -42,13 +42,13 @@ export default function AnalyticsScreen({ user, onBack }) {
 					className={`tab ${tab === "velocity" ? "tab-active" : ""}`}
 					onClick={() => setTab("velocity")}
 				>
-					Velocity
+					Learning Velocity
 				</button>
 				<button
 					className={`tab ${tab === "difficulty" ? "tab-active" : ""}`}
 					onClick={() => setTab("difficulty")}
 				>
-					Difficulty
+					Question Difficulty
 				</button>
 				{user && (
 					<button
@@ -58,6 +58,15 @@ export default function AnalyticsScreen({ user, onBack }) {
 						Weak Areas
 					</button>
 				)}
+			</div>
+
+			<div className="tab-description">
+				{tab === "velocity" &&
+					"Ranks all users by a weighted score of accuracy, response speed, and consistency."}
+				{tab === "difficulty" &&
+					"Ranks questions from hardest to easiest based on accuracy and response time across all attempts."}
+				{tab === "weakareas" &&
+					"Your personal chapter breakdown — lowest accuracy chapters appear first."}
 			</div>
 
 			<div className="analytics-content">
