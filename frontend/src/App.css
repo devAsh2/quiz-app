@@ -502,3 +502,28 @@
 	color: #00a884;
 	font-weight: 600;
 }
+
+/* --- Search Bar --- */
+.search-bar {
+	width: 100%;
+	padding: 4px 0 8px;
+}
+
+.search-input {
+	width: 100%;
+	padding: 10px 14px;
+	background: #2a3942;
+	border: none;
+	border-radius: 8px;
+	color: #e9edef;
+	font-size: 14px;
+	outline: none;
+}
+
+.search-input::placeholder {
+	color: #8696a0;
+}
+
+.search-input:focus {
+	background: #374045;
+}
