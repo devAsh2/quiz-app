@@ -4,5 +4,3 @@ motor
 pydantic
 pydantic-settings
 python-dotenv
-pandas
-numpy
