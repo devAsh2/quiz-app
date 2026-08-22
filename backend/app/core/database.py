@@ -20,7 +20,7 @@ async def create_indexes():
     await database.events.create_index([("question_id", 1)])
     await database.events.create_index([("quiz_id", 1)])
 
-    # 3. Compound Index for Fatigue Analysis (optimizes sorting by time)
-    await database.events.create_index([("user_id", 1), ("answer_submitted_time", 1)])
+    # 3. Compound index for Fatigue Analysis (user + quiz session, sorted by time)
+    await database.events.create_index([("user_id", 1), ("quiz_id", 1), ("answer_submitted_time", 1)])
 
     print("🚀 Database Indexes Created Successfully")

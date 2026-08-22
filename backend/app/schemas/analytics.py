@@ -13,7 +13,7 @@ class UserVelocityMetrics(BaseModel):
 
 # --- Fatigue Analysis ---
 class FatigueSegment(BaseModel):
-    question_range: str # e.g., "1-5"
+    segment: int  # 1 = first third, 2 = middle third, 3 = last third
     accuracy: float
     avg_response_time: float
 

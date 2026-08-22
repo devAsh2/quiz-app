@@ -6,6 +6,11 @@ from app.schemas.analytics import QuestionDifficultyMetrics
 class AnalyticsService:
     @staticmethod
     async def get_learning_velocity(db) -> List[UserVelocityMetrics]:
+        """
+        Calculates a Learning Velocity Index for every user based on
+        accuracy, average response time, and consistency of response time.
+        Returns users ranked from highest to lowest index.
+        """
         pipeline = [
             {
                 # 1. Group by user and calculate raw metrics
@@ -57,78 +62,81 @@ class AnalyticsService:
         ]
 
         cursor = db.events.aggregate(pipeline)
-        results = await cursor.to_list(length=100)
+        results = await cursor.to_list(length=None)
         return results
 
     @staticmethod
-    async def get_fatigue_analysis(db, user_id: str) -> FatigueAnalysisResponse:
+    async def get_fatigue_analysis(db, user_id: str, quiz_id: str) -> FatigueAnalysisResponse:
+        """
+        Analyzes how a user's accuracy and response time change across
+        the start, middle, and end thirds of a specific quiz session.
+        """
         pipeline = [
             {
-                # 1. Filter for the specific user
-                "$match": {"user_id": user_id}
+                # 1. Filter for the specific user and quiz session
+                "$match": {"user_id": user_id, "quiz_id": quiz_id}
             },
             {
-                # 2. Sort by quiz and time to establish the order of questions
-                "$sort": {"quiz_id": 1, "answer_submitted_time": 1}
-            },
-            {
-                # 3. Assign a sequence number (rank) to each question within its quiz
+                # 2. Assign rank and total count per session for dynamic segment calculation
                 "$setWindowFields": {
                     "partitionBy": "$quiz_id",
                     "sortBy": {"answer_submitted_time": 1},
                     "output": {
-                        "question_rank": {"$rank": {}}
+                        "question_rank": {"$rank": {}},
+                        "total_questions": {"$count": {}}
                     }
                 }
             },
             {
-                # 4. Group into segments (1-5, 6-10, 11-15)
+                # 3. Assign segment label based on thirds
                 "$project": {
                     "is_correct": 1,
                     "response_duration": 1,
+                    "question_rank": 1,
                     "segment": {
                         "$switch": {
                             "branches": [
-                                {"case": {"$lte": ["$question_rank", 5]}, "then": "1-5"},
-                                {"case": {"$lte": ["$question_rank", 10]}, "then": "6-10"},
-                                {"case": {"$lte": ["$question_rank", 15]}, "then": "11-15"}
+                                {"case": {"$lte": ["$question_rank", {"$ceil": {"$divide": ["$total_questions", 3]}}]}, "then": 1},
+                                {"case": {"$lte": ["$question_rank", {"$ceil": {"$multiply": [{"$divide": ["$total_questions", 3]}, 2]}}]}, "then": 2}
                             ],
-                            "default": "16+"
+                            "default": 3
                         }
                     }
                 }
             },
             {
-                # 5. Calculate metrics per segment
+                # 4. Calculate metrics per segment
                 "$group": {
                     "_id": "$segment",
                     "accuracy": {"$avg": {"$cond": ["$is_correct", 1, 0]}},
-                    "avg_response_time": {"$avg": "$response_duration"},
-                    "segment_order": {"$min": "$question_rank"} # Used for sorting segments
+                    "avg_response_time": {"$avg": "$response_duration"}
                 }
             },
             {
-                # 6. Final sort so segments appear in order (1-5 first, etc.)
-                "$sort": {"segment_order": 1}
+                # 5. Sort so segment 1 → 2 → 3
+                "$sort": {"_id": 1}
             }
         ]
 
         cursor = db.events.aggregate(pipeline)
-        results = await cursor.to_list(length=100)
+        results = await cursor.to_list(length=None)
 
-        # Map to our Schema
         segments = [
             FatigueSegment(
-                question_range=r["_id"],
+                segment=r["_id"],
                 accuracy=round(r["accuracy"], 2),
                 avg_response_time=round(r["avg_response_time"], 2)
             ) for r in results
         ]
 
-        return FatigueAnalysisResponse(user_id=user_id, segments=segments)
+        return FatigueAnalysisResponse(user_id=user_id, quiz_id=quiz_id, segments=segments)
 
     @staticmethod
     async def get_question_difficulty(db) -> List[QuestionDifficultyMetrics]:
+        """
+        Derives a difficulty score for every question using inverse accuracy
+        and average response time. Returns questions ranked hardest to easiest.
+        """
         pipeline = [
             {
                 # 1. Group by question_id and aggregate raw attempt data
@@ -163,8 +171,8 @@ class AnalyticsService:
                         "$add": [
                             # Higher score if accuracy is low
                             {"$multiply": [{"$subtract": [100, "$accuracy_percentage"]}, 0.7]},
-                            # Higher score if time is high (capped at 60s for normalization)
-                            {"$multiply": [{"$min": [{"$multiply": ["$avg_response_time", 1.66]}, 30]}, 0.3]}
+                            # Higher score if time is high (capped at 60s → mapped to 0-100)
+                            {"$multiply": [{"$min": [{"$multiply": ["$avg_response_time", 1.66]}, 100]}, 0.3]}
                         ]
                     }
                 }
@@ -176,5 +184,5 @@ class AnalyticsService:
         ]
 
         cursor = db.events.aggregate(pipeline)
-        results = await cursor.to_list(length=500)
+        results = await cursor.to_list(length=None)
         return results
