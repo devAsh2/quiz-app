@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Depends
 from app.core.database import get_db
 from app.services.analytics_services import AnalyticsService
-from app.schemas.analytics import UserVelocityMetrics, FatigueAnalysisResponse, QuestionDifficultyMetrics
+from app.schemas.analytics import UserVelocityMetrics, FatigueAnalysisResponse, QuestionDifficultyMetrics, WeakAreaMetrics
 from typing import List
 
 router = APIRouter()
@@ -23,3 +23,9 @@ async def fatigue_analysis(user_id: str, quiz_id: str, db = Depends(get_db)):
 @router.get("/question-difficulty", response_model=List[QuestionDifficultyMetrics])
 async def question_difficulty(db = Depends(get_db)):
     return await AnalyticsService.get_question_difficulty(db)
+
+# --- Weak Area Analysis ---
+# Returns a user's chapters ranked by accuracy (lowest first) to identify gaps
+@router.get("/weak-areas/{user_id}", response_model=List[WeakAreaMetrics])
+async def weak_areas(user_id: str, db = Depends(get_db)):
+    return await AnalyticsService.get_weak_areas(db, user_id)

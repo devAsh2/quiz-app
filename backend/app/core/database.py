@@ -26,4 +26,7 @@ async def create_indexes():
     # 4. Compound index for Question Difficulty aggregation
     await database.events.create_index([("question_id", 1), ("is_correct", 1)])
 
+    # 5. Compound index for Weak Area Analysis
+    await database.events.create_index([("user_id", 1), ("chapter_id", 1)])
+
     print("🚀 Database Indexes Created Successfully")

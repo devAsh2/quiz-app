@@ -1,7 +1,7 @@
 from app.schemas.analytics import UserVelocityMetrics
 from typing import List
 from app.schemas.analytics import FatigueAnalysisResponse, FatigueSegment
-from app.schemas.analytics import QuestionDifficultyMetrics
+from app.schemas.analytics import QuestionDifficultyMetrics, WeakAreaMetrics
 
 class AnalyticsService:
     @staticmethod
@@ -180,6 +180,49 @@ class AnalyticsService:
             {
                 # 4. Rank from Hardest (High Score) to Easiest (Low Score)
                 "$sort": {"difficulty_score": -1}
+            }
+        ]
+
+        cursor = db.events.aggregate(pipeline)
+        results = await cursor.to_list(length=None)
+        return results
+
+    @staticmethod
+    async def get_weak_areas(db, user_id: str) -> List[WeakAreaMetrics]:
+        """
+        Groups all of a user's events by chapter and ranks by accuracy (lowest first).
+        Identifies which chapters the user should revisit.
+        """
+        pipeline = [
+            {
+                # 1. Filter events for this user only
+                "$match": {"user_id": user_id}
+            },
+            {
+                # 2. Group by chapter, carry subject and exam, compute metrics
+                "$group": {
+                    "_id": "$chapter_id",
+                    "subject_id": {"$first": "$subject_id"},
+                    "exam_id": {"$first": "$exam_id"},
+                    "total_attempts": {"$sum": 1},
+                    "correct_count": {"$sum": {"$cond": ["$is_correct", 1, 0]}},
+                    "avg_response_time": {"$avg": "$response_duration"}
+                }
+            },
+            {
+                # 3. Calculate accuracy per chapter
+                "$project": {
+                    "chapter_id": "$_id",
+                    "subject_id": 1,
+                    "exam_id": 1,
+                    "total_attempts": 1,
+                    "avg_response_time": 1,
+                    "accuracy": {"$divide": ["$correct_count", "$total_attempts"]}
+                }
+            },
+            {
+                # 4. Sort by accuracy ascending (weakest chapters first)
+                "$sort": {"accuracy": 1}
             }
         ]
 

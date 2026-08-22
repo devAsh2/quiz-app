@@ -31,3 +31,13 @@ class QuestionDifficultyMetrics(BaseModel):
     accuracy_percentage: float
     avg_response_time: float
     difficulty_score: float
+
+
+# --- Weak Area Analysis ---
+class WeakAreaMetrics(BaseModel):
+    chapter_id: str
+    subject_id: str
+    exam_id: str
+    total_attempts: int
+    accuracy: float
+    avg_response_time: float

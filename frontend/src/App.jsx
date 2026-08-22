@@ -42,13 +42,42 @@ function App() {
 	return (
 		<div className="app">
 			{screen === "login" && <LoginScreen onLogin={handleLogin} />}
+
 			{screen === "select" && (
-				<SelectionScreen
-					onSelect={handleSelect}
-					onBack={handleLogout}
-					onAnalytics={() => setScreen("analytics")}
-				/>
+				<>
+					<SelectionScreen onSelect={handleSelect} onBack={handleLogout} />
+					<nav className="bottom-tab-bar">
+						<button className="bottom-tab bottom-tab-active">
+							<span className="bottom-tab-icon">🏠</span>
+							<span>Home</span>
+						</button>
+						<button
+							className="bottom-tab"
+							onClick={() => setScreen("analytics")}
+						>
+							<span className="bottom-tab-icon">📊</span>
+							<span>Analytics</span>
+						</button>
+					</nav>
+				</>
 			)}
+
+			{screen === "analytics" && (
+				<>
+					<AnalyticsScreen user={user} onBack={() => setScreen("select")} />
+					<nav className="bottom-tab-bar">
+						<button className="bottom-tab" onClick={() => setScreen("select")}>
+							<span className="bottom-tab-icon">🏠</span>
+							<span>Home</span>
+						</button>
+						<button className="bottom-tab bottom-tab-active">
+							<span className="bottom-tab-icon">📊</span>
+							<span>Analytics</span>
+						</button>
+					</nav>
+				</>
+			)}
+
 			{screen === "quiz" && (
 				<QuizScreen
 					user={user}
@@ -59,9 +88,6 @@ function App() {
 					onFinish={handleFinish}
 					onBack={handleFinish}
 				/>
-			)}
-			{screen === "analytics" && (
-				<AnalyticsScreen onBack={() => setScreen("select")} />
 			)}
 		</div>
 	);

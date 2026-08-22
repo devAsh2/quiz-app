@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { fetchExams } from "../api";
 
-export default function SelectionScreen({ onSelect, onBack, onAnalytics }) {
+export default function SelectionScreen({ onSelect, onBack }) {
 	const [exams, setExams] = useState([]);
 	const [selectedExam, setSelectedExam] = useState(null);
 	const [selectedSubject, setSelectedSubject] = useState(null);
@@ -83,13 +83,6 @@ export default function SelectionScreen({ onSelect, onBack, onAnalytics }) {
 					<h2>Exams</h2>
 					<p>Select an exam to begin</p>
 				</div>
-				<button
-					className="btn-primary"
-					onClick={onAnalytics}
-					style={{ marginLeft: "auto", fontSize: 12, padding: "6px 12px" }}
-				>
-					Analytics
-				</button>
 			</div>
 			<div className="selection-list">
 				{exams.map((exam) => (

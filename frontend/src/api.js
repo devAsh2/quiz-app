@@ -46,3 +46,8 @@ export async function fetchQuestionDifficulty() {
 	const res = await fetch(`${API_BASE}/analytics/question-difficulty`);
 	return res.json();
 }
+
+export async function fetchWeakAreas(userId) {
+	const res = await fetch(`${API_BASE}/analytics/weak-areas/${userId}`);
+	return res.json();
+}
