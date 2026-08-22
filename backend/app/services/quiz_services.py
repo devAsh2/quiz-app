@@ -52,7 +52,7 @@ class QuizService:
 
         # 5. Save to the 'events' collection
         # .dict(by_alias=True) ensures we don't accidentally save internal Pydantic fields
-        await db.events.insert_one(event_record.dict(exclude={"id"}))
+        await db.events.insert_one(event_record.model_dump(exclude={"id"}))
 
         # 6. Return the result to the frontend
         return SubmissionResult(

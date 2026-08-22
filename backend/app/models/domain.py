@@ -1,68 +1,62 @@
-from pydantic import BaseModel, Field
-from typing import List, Optional
+from pydantic import BaseModel, Field, ConfigDict, BeforeValidator
+from typing import List, Optional, Annotated
 from datetime import datetime
-from bson import ObjectId
 
-# Helper to handle MongoDB ObjectId as string
-class PyObjectId(str):
-    @classmethod
-    def __get_validators__(cls):
-        yield cls.validate
+PyObjectId = Annotated[str, BeforeValidator(lambda v: str(v))]
 
-    @classmethod
-    def validate(cls, v):
-        if not ObjectId.is_valid(v):
-            raise ValueError("Invalid objectid")
-        return str(v)
 
-# --- USER MODEL ---
+# --- USER ---
 class UserDocument(BaseModel):
-    id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")
+    model_config = ConfigDict(populate_by_name=True)
+    id: Optional[str] = Field(default=None, alias="_id")
     username: str
     email: str
 
-# --- HIERARCHY MODEL (Nested) ---
+
+# --- HIERARCHY (nested inside EXAM) ---
 class ChapterDocument(BaseModel):
-    id: str # Internal UUID/String
+    id: str
     name: str
+
 
 class SubjectDocument(BaseModel):
     id: str
     name: str
     chapters: List[ChapterDocument]
 
+
 class ExamDocument(BaseModel):
-    id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")
+    model_config = ConfigDict(populate_by_name=True)
+    id: Optional[str] = Field(default=None, alias="_id")
     name: str
     subjects: List[SubjectDocument]
 
-# --- QUESTION MODEL (Referenced) ---
+
+# --- QUESTION ---
 class QuestionDocument(BaseModel):
-    id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")
+    model_config = ConfigDict(populate_by_name=True)
+    id: Optional[str] = Field(default=None, alias="_id")
     exam_id: str
     subject_id: str
     chapter_id: str
     text: str
     options: List[str]
-    correct_option: int # Internal truth
+    correct_option: int
     marks: int = 1
 
-# --- EVENT TRACKING MODEL (The Analytics Engine) ---
+
+# --- EVENT (analytics engine) ---
 class EventDocument(BaseModel):
-    id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")
+    model_config = ConfigDict(populate_by_name=True)
+    id: Optional[PyObjectId] = Field(default=None, alias="_id")
     user_id: str
     quiz_id: str
     question_id: str
     exam_id: str
     subject_id: str
     chapter_id: str
-    
     question_shown_time: datetime
     answer_submitted_time: datetime
-    response_duration: float # Calculated (seconds)
-    
+    response_duration: float
     selected_option: int
-    is_correct: bool # Calculated (bool)
-
-    class Config:
-        populate_by_name = True
+    is_correct: bool

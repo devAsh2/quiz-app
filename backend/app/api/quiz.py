@@ -2,7 +2,7 @@ from fastapi import APIRouter, Depends, Header, HTTPException
 from typing import List
 from app.core.database import get_db
 from app.schemas.quiz import ExamResponse, QuestionRequest, AnswerSubmission, SubmissionResult
-from app.services.quiz_service import QuizService
+from app.services.quiz_services import QuizService
 from app.models.domain import UserDocument
 
 router = APIRouter()
