@@ -9,12 +9,12 @@ body {
 		-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 	background: #0b141a;
 	color: #e9edef;
-	height: 100vh;
+	height: 100dvh;
 	overflow: hidden;
 }
 
 #root {
-	height: 100vh;
+	height: 100dvh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
