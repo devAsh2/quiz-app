@@ -1,5 +1,10 @@
 import { useState, useEffect, useRef } from "react";
-import { fetchQuestions, submitAnswer, fetchResult } from "../api";
+import {
+	fetchQuestions,
+	submitAnswer,
+	fetchResult,
+	fetchFatigue,
+} from "../api";
 
 export default function QuizScreen({
 	user,
@@ -17,16 +22,22 @@ export default function QuizScreen({
 	const [submitting, setSubmitting] = useState(false);
 	const [quizDone, setQuizDone] = useState(false);
 	const [result, setResult] = useState(null);
+	const [fatigue, setFatigue] = useState(null);
 	const [questionShownTime, setQuestionShownTime] = useState(null);
 	const chatRef = useRef(null);
 
 	useEffect(() => {
+		let ignore = false;
 		fetchQuestions(chapter.id).then((data) => {
+			if (ignore) return;
 			setQuestions(data);
 			if (data.length > 0) {
 				showQuestion(data[0], 0, data.length);
 			}
 		});
+		return () => {
+			ignore = true;
+		};
 	}, [chapter.id]);
 
 	useEffect(() => {
@@ -88,7 +99,9 @@ export default function QuizScreen({
 			// Quiz complete
 			setTimeout(async () => {
 				const scoreData = await fetchResult(quizId);
+				const fatigueData = await fetchFatigue(user._id, quizId);
 				setResult(scoreData);
+				setFatigue(fatigueData);
 				setQuizDone(true);
 				setSubmitting(false);
 			}, 800);
@@ -132,9 +145,33 @@ export default function QuizScreen({
 						<div className="result-score">
 							{result.score}/{result.total}
 						</div>
+						<div className="result-details">Score</div>
 						<div className="result-percentage">
 							{result.percentage.toFixed(1)}%
 						</div>
+						<div className="result-details">Accuracy</div>
+
+						{fatigue && fatigue.segments && fatigue.segments.length > 0 && (
+							<div className="fatigue-section">
+								<h4>Fatigue Analysis</h4>
+								<div className="fatigue-segments">
+									{fatigue.segments.map((seg) => (
+										<div key={seg.segment} className="fatigue-segment">
+											<span className="fatigue-label">
+												{seg.segment === 1
+													? "Start"
+													: seg.segment === 2
+														? "Middle"
+														: "End"}
+											</span>
+											<span>{(seg.accuracy * 100).toFixed(0)}% acc</span>
+											<span>{seg.avg_response_time.toFixed(1)}s avg</span>
+										</div>
+									))}
+								</div>
+							</div>
+						)}
+
 						<button className="btn-primary" onClick={onFinish}>
 							Back to Home
 						</button>

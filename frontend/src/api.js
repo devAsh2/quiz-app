@@ -31,3 +31,18 @@ export async function fetchResult(quizId) {
 	const res = await fetch(`${API_BASE}/result/${quizId}`);
 	return res.json();
 }
+
+export async function fetchLearningVelocity() {
+	const res = await fetch(`${API_BASE}/analytics/learning-velocity`);
+	return res.json();
+}
+
+export async function fetchFatigue(userId, quizId) {
+	const res = await fetch(`${API_BASE}/analytics/fatigue/${userId}/${quizId}`);
+	return res.json();
+}
+
+export async function fetchQuestionDifficulty() {
+	const res = await fetch(`${API_BASE}/analytics/question-difficulty`);
+	return res.json();
+}

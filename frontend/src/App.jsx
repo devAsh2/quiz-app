@@ -3,6 +3,7 @@ import "./App.css";
 import LoginScreen from "./components/LoginScreen";
 import SelectionScreen from "./components/SelectionScreen";
 import QuizScreen from "./components/QuizScreen";
+import AnalyticsScreen from "./components/AnalyticsScreen";
 
 function App() {
 	const [screen, setScreen] = useState("login");
@@ -42,7 +43,11 @@ function App() {
 		<div className="app">
 			{screen === "login" && <LoginScreen onLogin={handleLogin} />}
 			{screen === "select" && (
-				<SelectionScreen onSelect={handleSelect} onBack={handleLogout} />
+				<SelectionScreen
+					onSelect={handleSelect}
+					onBack={handleLogout}
+					onAnalytics={() => setScreen("analytics")}
+				/>
 			)}
 			{screen === "quiz" && (
 				<QuizScreen
@@ -54,6 +59,9 @@ function App() {
 					onFinish={handleFinish}
 					onBack={handleFinish}
 				/>
+			)}
+			{screen === "analytics" && (
+				<AnalyticsScreen onBack={() => setScreen("select")} />
 			)}
 		</div>
 	);
