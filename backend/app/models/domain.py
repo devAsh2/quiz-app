@@ -60,3 +60,4 @@ class EventDocument(BaseModel):
     response_duration: float
     selected_option: int
     is_correct: bool
+    marks: int
