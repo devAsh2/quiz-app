@@ -5,7 +5,7 @@ from datetime import datetime
 PyObjectId = Annotated[str, BeforeValidator(lambda v: str(v))]
 
 
-# --- USER ---
+# --- User ---
 class UserDocument(BaseModel):
     model_config = ConfigDict(populate_by_name=True)
     id: Optional[str] = Field(default=None, alias="_id")
@@ -13,7 +13,7 @@ class UserDocument(BaseModel):
     email: str
 
 
-# --- HIERARCHY (nested inside EXAM) ---
+# --- Hierarchy (nested inside Exam) ---
 class ChapterDocument(BaseModel):
     id: str
     name: str
@@ -32,7 +32,7 @@ class ExamDocument(BaseModel):
     subjects: List[SubjectDocument]
 
 
-# --- QUESTION ---
+# --- Question ---
 class QuestionDocument(BaseModel):
     model_config = ConfigDict(populate_by_name=True)
     id: Optional[str] = Field(default=None, alias="_id")
@@ -45,7 +45,7 @@ class QuestionDocument(BaseModel):
     marks: int = 1
 
 
-# --- EVENT (analytics engine) ---
+# --- Event (analytics engine) ---
 class EventDocument(BaseModel):
     model_config = ConfigDict(populate_by_name=True)
     id: Optional[PyObjectId] = Field(default=None, alias="_id")

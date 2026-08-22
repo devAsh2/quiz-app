@@ -6,21 +6,21 @@ from app.services.quiz_services import QuizService
 
 router = APIRouter()
 
-# --- 1. Dummy Auth ---
+# --- Dummy Auth ---
 # Returns predefined users for the login screen
 @router.get("/users", response_model=List[UserResponse])
 async def get_users(db = Depends(get_db)):
     cursor = db.users.find()
     return await cursor.to_list(length=None)
 
-# --- 2. Hierarchy ---
+# --- Hierarchy ---
 # Returns full nested structure: Exam -> Subject -> Chapter
 @router.get("/exams", response_model=List[ExamResponse])
 async def get_exams(db = Depends(get_db)):
     cursor = db.exams.find()
     return await cursor.to_list(length=None)
 
-# --- 3. Quiz ---
+# --- Quiz ---
 # Returns all questions for a chapter (correct_option excluded by schema)
 @router.get("/questions/{chapter_id}", response_model=List[QuestionResponse])
 async def get_questions(chapter_id: str, db = Depends(get_db)):
@@ -32,7 +32,7 @@ async def get_questions(chapter_id: str, db = Depends(get_db)):
 
     return questions
 
-# --- 4. Submit Answer ---
+# --- Submit Answer ---
 # Verifies answer, captures event for analytics, returns result to frontend
 @router.post("/submit", response_model=SubmissionResult)
 async def submit_answer(
@@ -42,7 +42,7 @@ async def submit_answer(
 ):
     return await QuizService.process_answer(db, x_user_id, submission)
 
-# --- 5. Result ---
+# --- Result ---
 # Returns final score for a completed quiz session
 @router.get("/result/{quiz_id}", response_model=QuizResult)
 async def get_quiz_result(quiz_id: str, db = Depends(get_db)):
