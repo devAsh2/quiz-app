@@ -542,3 +542,8 @@
 	background: #182229;
 	border-bottom: 1px solid #2a3942;
 }
+
+/* --- Mobile safe area (Chrome tab bar) --- */
+.bottom-tab-bar {
+	padding-bottom: max(4px, env(safe-area-inset-bottom));
+}
