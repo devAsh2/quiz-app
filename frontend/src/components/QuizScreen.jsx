@@ -154,21 +154,30 @@ export default function QuizScreen({
 						{fatigue && fatigue.segments && fatigue.segments.length > 0 && (
 							<div className="fatigue-section">
 								<h4>Fatigue Analysis</h4>
-								<div className="fatigue-segments">
-									{fatigue.segments.map((seg) => (
-										<div key={seg.segment} className="fatigue-segment">
-											<span className="fatigue-label">
-												{seg.segment === 1
-													? "Start"
-													: seg.segment === 2
-														? "Middle"
-														: "End"}
-											</span>
-											<span>{(seg.accuracy * 100).toFixed(0)}% acc</span>
-											<span>{seg.avg_response_time.toFixed(1)}s avg</span>
-										</div>
-									))}
-								</div>
+								<table className="fatigue-table">
+									<thead>
+										<tr>
+											<th>Segment</th>
+											<th>Accuracy</th>
+											<th>Avg Time</th>
+										</tr>
+									</thead>
+									<tbody>
+										{fatigue.segments.map((seg) => (
+											<tr key={seg.segment}>
+												<td className="fatigue-label">
+													{seg.segment === 1
+														? "Start"
+														: seg.segment === 2
+															? "Middle"
+															: "End"}
+												</td>
+												<td>{(seg.accuracy * 100).toFixed(1)}%</td>
+												<td>{seg.avg_response_time.toFixed(1)}s</td>
+											</tr>
+										))}
+									</tbody>
+								</table>
 							</div>
 						)}
 

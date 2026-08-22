@@ -475,3 +475,30 @@
 	color: #00a884;
 	min-width: 50px;
 }
+
+/* --- Fatigue Table --- */
+.fatigue-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 8px;
+	font-size: 12px;
+}
+
+.fatigue-table th {
+	color: #8696a0;
+	font-weight: 500;
+	padding: 4px 8px;
+	text-align: left;
+	border-bottom: 1px solid #2a3942;
+}
+
+.fatigue-table td {
+	padding: 6px 8px;
+	color: #e9edef;
+	border-bottom: 1px solid #1a2a33;
+}
+
+.fatigue-table .fatigue-label {
+	color: #00a884;
+	font-weight: 600;
+}
