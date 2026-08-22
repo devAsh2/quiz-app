@@ -23,4 +23,7 @@ async def create_indexes():
     # 3. Compound index for Fatigue Analysis (user + quiz session, sorted by time)
     await database.events.create_index([("user_id", 1), ("quiz_id", 1), ("answer_submitted_time", 1)])
 
+    # 4. Compound index for Question Difficulty aggregation
+    await database.events.create_index([("question_id", 1), ("is_correct", 1)])
+
     print("🚀 Database Indexes Created Successfully")

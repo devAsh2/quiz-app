@@ -62,15 +62,26 @@ class QuizService:
         """
         Aggregates all event records for a quiz session and returns the final score.
         """
-        cursor = db.events.find({"quiz_id": quiz_id})
-        events = await cursor.to_list(length=None)
+        pipeline = [
+            {"$match": {"quiz_id": quiz_id}},
+            {
+                "$group": {
+                    "_id": None,
+                    "total": {"$sum": 1},
+                    "score": {"$sum": {"$cond": ["$is_correct", "$marks", 0]}},
+                    "total_marks": {"$sum": "$marks"}
+                }
+            }
+        ]
+        cursor = db.events.aggregate(pipeline)
+        results = await cursor.to_list(length=1)
 
-        total_questions = len(events)
-        score = sum(e["marks"] for e in events if e["is_correct"])
-        total_marks = sum(e["marks"] for e in events)
+        if not results:
+            return {"total": 0, "score": 0, "percentage": 0.0}
 
+        r = results[0]
         return {
-            "total": total_questions,
-            "score": score,
-            "percentage": (score / total_marks * 100) if total_marks > 0 else 0
+            "total": r["total"],
+            "score": r["score"],
+            "percentage": (r["score"] / r["total_marks"] * 100) if r["total_marks"] > 0 else 0.0
         }
