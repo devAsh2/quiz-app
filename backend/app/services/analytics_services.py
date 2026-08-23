@@ -204,20 +204,21 @@ class AnalyticsService:
                     "_id": "$chapter_id",
                     "subject_id": {"$first": "$subject_id"},
                     "exam_id": {"$first": "$exam_id"},
-                    "total_attempts": {"$sum": 1},
+                    "quiz_sessions": {"$addToSet": "$quiz_id"},
                     "correct_count": {"$sum": {"$cond": ["$is_correct", 1, 0]}},
+                    "total_questions": {"$sum": 1},
                     "avg_response_time": {"$avg": "$response_duration"}
                 }
             },
             {
-                # 3. Calculate accuracy per chapter
+                # 3. Calculate accuracy and convert quiz_sessions set to count
                 "$project": {
                     "chapter_id": "$_id",
                     "subject_id": 1,
                     "exam_id": 1,
-                    "total_attempts": 1,
+                    "quiz_sessions": {"$size": "$quiz_sessions"},
                     "avg_response_time": 1,
-                    "accuracy": {"$divide": ["$correct_count", "$total_attempts"]}
+                    "accuracy": {"$divide": ["$correct_count", "$total_questions"]}
                 }
             },
             {

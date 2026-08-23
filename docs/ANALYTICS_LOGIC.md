@@ -92,7 +92,7 @@ Identifies which chapters a specific user should revisit, ranked by accuracy (lo
 
 - `chapter_id`, `subject_id`, `exam_id`
 - `accuracy`: 0.0 – 1.0
-- `total_attempts`: total questions answered in this chapter
+- `quiz_sessions`: number of times the user has attempted this chapter's quiz
 - `avg_response_time`
 
 **Frontend color coding:**

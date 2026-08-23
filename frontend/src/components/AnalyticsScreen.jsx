@@ -133,7 +133,7 @@ export default function AnalyticsScreen({ user, onBack }) {
 									<div className="analytics-metrics">
 										<span>Accuracy: {(item.accuracy * 100).toFixed(1)}%</span>
 										<span>Avg Time: {item.avg_response_time.toFixed(1)}s</span>
-										<span>Attempts: {item.total_attempts}</span>
+										<span>Sessions: {item.quiz_sessions}</span>
 									</div>
 								</div>
 								<div

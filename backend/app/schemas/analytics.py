@@ -38,6 +38,6 @@ class WeakAreaMetrics(BaseModel):
     chapter_id: str
     subject_id: str
     exam_id: str
-    total_attempts: int
+    quiz_sessions: int
     accuracy: float
     avg_response_time: float

@@ -185,7 +185,7 @@ Returns chapters ranked by the user's accuracy (lowest first).
 		"chapter_id": "ch_07",
 		"subject_id": "sub_03",
 		"exam_id": "exam_1",
-		"total_attempts": 17,
+		"quiz_sessions": 2,
 		"accuracy": 0.24,
 		"avg_response_time": 38.1
 	}
